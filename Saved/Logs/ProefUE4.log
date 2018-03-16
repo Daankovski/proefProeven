@@ -764,3 +764,922 @@ LogInit: Object subsystem initialized
 [2018.03.16-13.26.16:456][188]LogSavePackage: Moving 'C:/Users/jay/Documents/GitHub/proefProeven/Saved/floor_2BE9693294A1E3141BB761C975AFDD871.tmp' to 'C:/Users/jay/Documents/GitHub/proefProeven/Content/Models/ModularAssets/Floors/floor_2.uasset'
 [2018.03.16-13.26.16:460][188]LogSavePackage: Display: Finished SavePackage C:/Users/jay/Documents/GitHub/proefProeven/Content/Models/ModularAssets/Floors/floor_2.uasset
 [2018.03.16-13.26.20:631][429]LogActorFactory: Actor Factory created floor_2
+[2018.03.16-13.28.56:437][162]LogMaterial: Missing cached shader map for material Master_Mat, compiling. 
+[2018.03.16-13.28.56:537][162]LogMaterial: Missing cached shader map for material Master_Mat, compiling. 
+[2018.03.16-13.28.56:559][162]LogMaterial: Missing cached shader map for material Master_Mat, compiling. 
+[2018.03.16-13.28.56:607][162]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_2, compiling. 
+[2018.03.16-13.28.56:612][162]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_1, compiling. 
+[2018.03.16-13.28.56:617][162]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2018.03.16-13.28.57:280][162]LogSlate: Took 0.647759 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.03.16-13.28.59:209][222]MaterialEditorStats: Base pass shader: 115 instructions
+[2018.03.16-13.28.59:209][222]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2018.03.16-13.28.59:209][222]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.03.16-13.28.59:209][222]MaterialEditorStats: Texture samplers: 5/16
+[2018.03.16-13.28.59:209][222]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.03.16-13.29.10:431][879]LogMaterial: Missing cached shader map for material Master_Mat, compiling. 
+[2018.03.16-13.29.10:455][879]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_2, compiling. 
+[2018.03.16-13.29.12:023][950]MaterialEditorStats: Base pass shader: 115 instructions
+[2018.03.16-13.29.12:023][950]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2018.03.16-13.29.12:023][950]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.03.16-13.29.12:023][950]MaterialEditorStats: Texture samplers: 5/16
+[2018.03.16-13.29.12:023][950]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.03.16-13.29.24:939][718]LogMaterialEditor: Saving and Compiling material Master_Mat
+[2018.03.16-13.29.25:482][718]LogMaterial: Missing cached shader map for material Master_Mat, compiling. 
+[2018.03.16-13.29.25:537][718]LogMaterial: Missing cached shader map for material Master_Mat, compiling. 
+[2018.03.16-13.29.25:584][718]LogMaterial: Missing cached shader map for material Master_Mat, compiling. 
+[2018.03.16-13.29.25:640][718]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Master_Mat, compiling. 
+[2018.03.16-13.29.27:002][718]TextureStreamingBuild: Display: Compiling optional shaders took 1.371 seconds.
+[2018.03.16-13.29.29:730][718]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Master_Mat" FILE="C:/Users/jay/Documents/GitHub/proefProeven/Content/Models/Master_Mat.uasset" SILENT=true
+[2018.03.16-13.29.29:766][718]LogSavePackage: Save=24.19ms
+[2018.03.16-13.29.29:766][718]LogSavePackage: Moving 'C:/Users/jay/Documents/GitHub/proefProeven/Saved/Master_Mat849749374EFE2AB83D2F07B7BF0850BD.tmp' to 'C:/Users/jay/Documents/GitHub/proefProeven/Content/Models/Master_Mat.uasset'
+[2018.03.16-13.29.29:770][718]LogSavePackage: Display: Finished SavePackage C:/Users/jay/Documents/GitHub/proefProeven/Content/Models/Master_Mat.uasset
+[2018.03.16-13.29.29:784][718]MaterialEditorStats: Base pass shader: 115 instructions
+[2018.03.16-13.29.29:784][718]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2018.03.16-13.29.29:784][718]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.03.16-13.29.29:784][718]MaterialEditorStats: Texture samplers: 6/16
+[2018.03.16-13.29.29:784][718]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.03.16-13.29.38:484][229]LogActorFactory: Actor Factory created floor_1
+[2018.03.16-13.29.39:636][297]LogActorFactory: Actor Factory created floor_1
+[2018.03.16-13.29.40:588][354]LogActorFactory: Actor Factory created floor_1
+[2018.03.16-13.30.42:835][180]Cmd: OBJ SAVEPACKAGE PACKAGE="/Temp/Untitled_1" FILE="C:/Users/jay/Documents/GitHub/proefProeven/Saved/Autosaves/Temp/Untitled_1_Auto3.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2018.03.16-13.30.42:874][180]LogSavePackage: Save=38.87ms
+[2018.03.16-13.30.42:874][180]LogSavePackage: Moving 'C:/Users/jay/Documents/GitHub/proefProeven/Saved/Untitled_1_Auto381F3C1964C88661726D2019D65A2932B.tmp' to 'C:/Users/jay/Documents/GitHub/proefProeven/Saved/Autosaves/Temp/Untitled_1_Auto3.umap'
+[2018.03.16-13.30.42:876][180]LogSavePackage: Display: Finished SavePackage C:/Users/jay/Documents/GitHub/proefProeven/Saved/Autosaves/Temp/Untitled_1_Auto3.umap
+[2018.03.16-13.30.42:882][180]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 0.059
+[2018.03.16-13.30.42:882][180]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.059
+[2018.03.16-13.30.42:885][180]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/ModularAssets/Floors/Textures/Floor_1/floor_1_Normal] ([1] browsable assets)...
+[2018.03.16-13.30.42:896][180]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Models/ModularAssets/Floors/Textures/Floor_1/floor_1_Normal.floor_1_Normal]
+[2018.03.16-13.30.42:896][180]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/ModularAssets/Floors/Textures/Floor_1/floor_1_Normal]
+[2018.03.16-13.30.42:914][180]LogSavePackage: Save=13.39ms
+[2018.03.16-13.30.42:914][180]LogSavePackage: Moving 'C:/Users/jay/Documents/GitHub/proefProeven/Saved/floor_1_Normal_Auto38D1E1D25404B7EA755B309BD9D32F8DC.tmp' to 'C:/Users/jay/Documents/GitHub/proefProeven/Saved/Autosaves/Game/Models/ModularAssets/Floors/Textures/Floor_1/floor_1_Normal_Auto3.uasset'
+[2018.03.16-13.30.42:917][180]LogSavePackage: Display: Finished SavePackage C:/Users/jay/Documents/GitHub/proefProeven/Saved/Autosaves/Game/Models/ModularAssets/Floors/Textures/Floor_1/floor_1_Normal_Auto3.uasset
+[2018.03.16-13.30.42:918][180]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/ModularAssets/Floors/Textures/Floor_1/floor_1_OcclusionRoughnessMetallic] ([1] browsable assets)...
+[2018.03.16-13.30.42:942][180]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Models/ModularAssets/Floors/Textures/Floor_1/floor_1_OcclusionRoughnessMetallic.floor_1_OcclusionRoughnessMetallic]
+[2018.03.16-13.30.42:942][180]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/ModularAssets/Floors/Textures/Floor_1/floor_1_OcclusionRoughnessMetallic]
+[2018.03.16-13.30.43:037][180]LogSavePackage: Save=92.44ms
+[2018.03.16-13.30.43:037][180]LogSavePackage: Moving 'C:/Users/jay/Documents/GitHub/proefProeven/Saved/floor_1_OcclusionRoughnessMetallDD20FBF048522D3E176522B3C5B44AC1.tmp' to 'C:/Users/jay/Documents/GitHub/proefProeven/Saved/Autosaves/Game/Models/ModularAssets/Floors/Textures/Floor_1/floor_1_OcclusionRoughnessMetallic_Auto3.uasset'
+[2018.03.16-13.30.43:039][180]LogSavePackage: Display: Finished SavePackage C:/Users/jay/Documents/GitHub/proefProeven/Saved/Autosaves/Game/Models/ModularAssets/Floors/Textures/Floor_1/floor_1_OcclusionRoughnessMetallic_Auto3.uasset
+[2018.03.16-13.30.43:039][180]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/ModularAssets/Floors/Textures/Floor_1/floor_1_BaseColor] ([1] browsable assets)...
+[2018.03.16-13.30.43:047][180]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Models/ModularAssets/Floors/Textures/Floor_1/floor_1_BaseColor.floor_1_BaseColor]
+[2018.03.16-13.30.43:047][180]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/ModularAssets/Floors/Textures/Floor_1/floor_1_BaseColor]
+[2018.03.16-13.30.43:061][180]LogSavePackage: Save=11.12ms
+[2018.03.16-13.30.43:061][180]LogSavePackage: Moving 'C:/Users/jay/Documents/GitHub/proefProeven/Saved/floor_1_BaseColor_Auto3B4E90A2946A096F3D28289BB084E4187.tmp' to 'C:/Users/jay/Documents/GitHub/proefProeven/Saved/Autosaves/Game/Models/ModularAssets/Floors/Textures/Floor_1/floor_1_BaseColor_Auto3.uasset'
+[2018.03.16-13.30.43:066][180]LogSavePackage: Display: Finished SavePackage C:/Users/jay/Documents/GitHub/proefProeven/Saved/Autosaves/Game/Models/ModularAssets/Floors/Textures/Floor_1/floor_1_BaseColor_Auto3.uasset
+[2018.03.16-13.30.43:067][180]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/ModularAssets/Floors/Textures/Floor_2/floor_2_Normal] ([1] browsable assets)...
+[2018.03.16-13.30.43:076][180]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Models/ModularAssets/Floors/Textures/Floor_2/floor_2_Normal.floor_2_Normal]
+[2018.03.16-13.30.43:076][180]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/ModularAssets/Floors/Textures/Floor_2/floor_2_Normal]
+[2018.03.16-13.30.43:090][180]LogSavePackage: Save=10.90ms
+[2018.03.16-13.30.43:090][180]LogSavePackage: Moving 'C:/Users/jay/Documents/GitHub/proefProeven/Saved/floor_2_Normal_Auto3B32DA20A408DB0E1CB83BE8F8D7D6FF9.tmp' to 'C:/Users/jay/Documents/GitHub/proefProeven/Saved/Autosaves/Game/Models/ModularAssets/Floors/Textures/Floor_2/floor_2_Normal_Auto3.uasset'
+[2018.03.16-13.30.43:092][180]LogSavePackage: Display: Finished SavePackage C:/Users/jay/Documents/GitHub/proefProeven/Saved/Autosaves/Game/Models/ModularAssets/Floors/Textures/Floor_2/floor_2_Normal_Auto3.uasset
+[2018.03.16-13.30.43:093][180]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/ModularAssets/Floors/Textures/Floor_2/floor_2_OcclusionRoughnessMetallic] ([1] browsable assets)...
+[2018.03.16-13.30.43:103][180]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Models/ModularAssets/Floors/Textures/Floor_2/floor_2_OcclusionRoughnessMetallic.floor_2_OcclusionRoughnessMetallic]
+[2018.03.16-13.30.43:103][180]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/ModularAssets/Floors/Textures/Floor_2/floor_2_OcclusionRoughnessMetallic]
+[2018.03.16-13.30.43:118][180]LogSavePackage: Save=11.85ms
+[2018.03.16-13.30.43:118][180]LogSavePackage: Moving 'C:/Users/jay/Documents/GitHub/proefProeven/Saved/floor_2_OcclusionRoughnessMetall9F52D4634BC7C726001A1EB83ADCEEF0.tmp' to 'C:/Users/jay/Documents/GitHub/proefProeven/Saved/Autosaves/Game/Models/ModularAssets/Floors/Textures/Floor_2/floor_2_OcclusionRoughnessMetallic_Auto3.uasset'
+[2018.03.16-13.30.43:119][180]LogSavePackage: Display: Finished SavePackage C:/Users/jay/Documents/GitHub/proefProeven/Saved/Autosaves/Game/Models/ModularAssets/Floors/Textures/Floor_2/floor_2_OcclusionRoughnessMetallic_Auto3.uasset
+[2018.03.16-13.30.43:120][180]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/ModularAssets/Floors/Textures/Floor_2/floor_2_BaseColor] ([1] browsable assets)...
+[2018.03.16-13.30.43:128][180]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Models/ModularAssets/Floors/Textures/Floor_2/floor_2_BaseColor.floor_2_BaseColor]
+[2018.03.16-13.30.43:128][180]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/ModularAssets/Floors/Textures/Floor_2/floor_2_BaseColor]
+[2018.03.16-13.30.43:140][180]LogSavePackage: Save=10.20ms
+[2018.03.16-13.30.43:140][180]LogSavePackage: Moving 'C:/Users/jay/Documents/GitHub/proefProeven/Saved/floor_2_BaseColor_Auto35571BD624D40963E5CE842AA1BC72B51.tmp' to 'C:/Users/jay/Documents/GitHub/proefProeven/Saved/Autosaves/Game/Models/ModularAssets/Floors/Textures/Floor_2/floor_2_BaseColor_Auto3.uasset'
+[2018.03.16-13.30.43:142][180]LogSavePackage: Display: Finished SavePackage C:/Users/jay/Documents/GitHub/proefProeven/Saved/Autosaves/Game/Models/ModularAssets/Floors/Textures/Floor_2/floor_2_BaseColor_Auto3.uasset
+[2018.03.16-13.30.43:142][180]LogFileHelpers: Auto-saving content packages took 0.259
+[2018.03.16-13.32.47:442][890]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/ModularAssets/Floors/Material/Floor_1" FILE="C:/Users/jay/Documents/GitHub/proefProeven/Content/Models/ModularAssets/Floors/Material/Floor_1.uasset" SILENT=true
+[2018.03.16-13.32.47:475][890]LogSavePackage: Save=19.27ms
+[2018.03.16-13.32.47:475][890]LogSavePackage: Moving 'C:/Users/jay/Documents/GitHub/proefProeven/Saved/Floor_15000C157467A72CBDB57E39D0D8574B3.tmp' to 'C:/Users/jay/Documents/GitHub/proefProeven/Content/Models/ModularAssets/Floors/Material/Floor_1.uasset'
+[2018.03.16-13.32.47:478][890]LogSavePackage: Display: Finished SavePackage C:/Users/jay/Documents/GitHub/proefProeven/Content/Models/ModularAssets/Floors/Material/Floor_1.uasset
+[2018.03.16-13.32.51:432][114]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.03.16-13.32.51:529][114]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.03.16-13.32.51:552][114]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.03.16-13.32.51:596][114]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_2, compiling. 
+[2018.03.16-13.32.51:601][114]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_1, compiling. 
+[2018.03.16-13.32.51:606][114]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2018.03.16-13.32.54:541][212]MaterialEditorStats: Base pass shader: 115 instructions
+[2018.03.16-13.32.54:541][212]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2018.03.16-13.32.54:541][212]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.03.16-13.32.54:541][212]MaterialEditorStats: Texture samplers: 5/16
+[2018.03.16-13.32.54:541][212]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.03.16-13.33.06:367][891]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.03.16-13.33.06:368][891]LogMaterial: Warning: /Engine/Transient.PreviewMaterial_0 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.03.16-13.33.06:368][891]LogMaterial: 	(Node TextureSampleParameter2D) TextureSampleParameter> Sampler type is Alpha, should be Color for /Game/Models/Battery/Textures/battery_lp_BaseColor.battery_lp_BaseColor
+[2018.03.16-13.33.06:377][891]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_2, compiling. 
+[2018.03.16-13.33.06:403][891]MaterialEditorStats: Error: [SM5] (Node TextureSampleParameter2D) TextureSampleParameter> Sampler type is Alpha, should be Color for /Game/Models/Battery/Textures/battery_lp_BaseColor.battery_lp_BaseColor
+[2018.03.16-13.33.10:397][123]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.03.16-13.33.10:422][123]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_2, compiling. 
+[2018.03.16-13.33.11:921][176]MaterialEditorStats: Base pass shader: 115 instructions
+[2018.03.16-13.33.11:921][176]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2018.03.16-13.33.11:921][176]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.03.16-13.33.11:921][176]MaterialEditorStats: Texture samplers: 5/16
+[2018.03.16-13.33.11:921][176]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.03.16-13.33.27:810][ 60]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.03.16-13.33.27:835][ 60]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_2, compiling. 
+[2018.03.16-13.33.29:208][112]MaterialEditorStats: Base pass shader: 115 instructions
+[2018.03.16-13.33.29:208][112]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2018.03.16-13.33.29:208][112]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.03.16-13.33.29:208][112]MaterialEditorStats: Texture samplers: 5/16
+[2018.03.16-13.33.29:208][112]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.03.16-13.33.33:626][347]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.03.16-13.33.33:627][347]LogMaterial: Warning: /Engine/Transient.PreviewMaterial_0 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.03.16-13.33.33:627][347]LogMaterial: 	(Node TextureSampleParameter2D) TextureSampleParameter> Sampler type is Alpha, should be Color for /Game/Models/ModularAssets/Floors/Textures/Floor_1/floor_1_BaseColor.floor_1_BaseColor
+[2018.03.16-13.33.33:632][347]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_2, compiling. 
+[2018.03.16-13.33.33:657][347]MaterialEditorStats: Error: [SM5] (Node TextureSampleParameter2D) TextureSampleParameter> Sampler type is Alpha, should be Color for /Game/Models/ModularAssets/Floors/Textures/Floor_1/floor_1_BaseColor.floor_1_BaseColor
+[2018.03.16-13.33.36:893][534]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.03.16-13.33.36:894][534]LogMaterial: Warning: /Engine/Transient.PreviewMaterial_0 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.03.16-13.33.36:894][534]LogMaterial: 	(Node TextureSampleParameter2D) TextureSampleParameter> Sampler type is Grayscale, should be Color for /Game/Models/ModularAssets/Floors/Textures/Floor_1/floor_1_BaseColor.floor_1_BaseColor
+[2018.03.16-13.33.36:902][534]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_2, compiling. 
+[2018.03.16-13.33.36:929][534]MaterialEditorStats: Error: [SM5] (Node TextureSampleParameter2D) TextureSampleParameter> Sampler type is Grayscale, should be Color for /Game/Models/ModularAssets/Floors/Textures/Floor_1/floor_1_BaseColor.floor_1_BaseColor
+[2018.03.16-13.33.42:098][836]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.03.16-13.33.42:099][836]LogMaterial: Warning: /Engine/Transient.PreviewMaterial_0 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.03.16-13.33.42:099][836]LogMaterial: 	(Node TextureSampleParameter2D) TextureSampleParameter> Sampler type is Normal, should be Color for /Game/Models/ModularAssets/Floors/Textures/Floor_1/floor_1_BaseColor.floor_1_BaseColor
+[2018.03.16-13.33.42:106][836]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_2, compiling. 
+[2018.03.16-13.33.42:134][836]MaterialEditorStats: Error: [SM5] (Node TextureSampleParameter2D) TextureSampleParameter> Sampler type is Normal, should be Color for /Game/Models/ModularAssets/Floors/Textures/Floor_1/floor_1_BaseColor.floor_1_BaseColor
+[2018.03.16-13.33.43:662][923]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.03.16-13.33.43:662][923]LogMaterial: Warning: /Engine/Transient.PreviewMaterial_0 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.03.16-13.33.43:662][923]LogMaterial: 	(Node TextureSampleParameter2D) TextureSampleParameter> Sampler type is Masks, should be Color for /Game/Models/ModularAssets/Floors/Textures/Floor_1/floor_1_BaseColor.floor_1_BaseColor
+[2018.03.16-13.33.43:670][923]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_2, compiling. 
+[2018.03.16-13.33.43:697][923]MaterialEditorStats: Error: [SM5] (Node TextureSampleParameter2D) TextureSampleParameter> Sampler type is Masks, should be Color for /Game/Models/ModularAssets/Floors/Textures/Floor_1/floor_1_BaseColor.floor_1_BaseColor
+[2018.03.16-13.33.45:660][ 36]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.03.16-13.33.45:685][ 36]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_2, compiling. 
+[2018.03.16-13.33.47:144][ 89]MaterialEditorStats: Base pass shader: 115 instructions
+[2018.03.16-13.33.47:144][ 89]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2018.03.16-13.33.47:144][ 89]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.03.16-13.33.47:144][ 89]MaterialEditorStats: Texture samplers: 5/16
+[2018.03.16-13.33.47:144][ 89]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.03.16-13.34.53:331][832]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.03.16-13.34.53:372][832]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.03.16-13.34.57:215][974]MaterialEditorStats: Base pass shader: 49 instructions
+[2018.03.16-13.34.57:215][974]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 80 instructions
+[2018.03.16-13.34.57:215][974]MaterialEditorStats: Vertex shader: 124 instructions
+[2018.03.16-13.34.57:215][974]MaterialEditorStats: Texture samplers: 3/16
+[2018.03.16-13.34.57:215][974]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.03.16-13.35.00:636][163]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.03.16-13.35.00:666][163]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.03.16-13.35.03:857][277]MaterialEditorStats: Base pass shader: 50 instructions
+[2018.03.16-13.35.03:857][277]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 81 instructions
+[2018.03.16-13.35.03:857][277]MaterialEditorStats: Vertex shader: 124 instructions
+[2018.03.16-13.35.03:857][277]MaterialEditorStats: Texture samplers: 3/16
+[2018.03.16-13.35.03:857][277]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.03.16-13.35.06:717][432]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.03.16-13.35.06:740][432]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.03.16-13.35.08:396][493]MaterialEditorStats: Base pass shader: 115 instructions
+[2018.03.16-13.35.08:396][493]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2018.03.16-13.35.08:396][493]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.03.16-13.35.08:396][493]MaterialEditorStats: Texture samplers: 5/16
+[2018.03.16-13.35.08:396][493]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.03.16-13.35.11:560][661]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.03.16-13.35.11:581][661]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.03.16-13.35.13:185][721]MaterialEditorStats: Base pass shader: 115 instructions
+[2018.03.16-13.35.13:185][721]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2018.03.16-13.35.13:185][721]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.03.16-13.35.13:185][721]MaterialEditorStats: Texture samplers: 5/16
+[2018.03.16-13.35.13:185][721]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.03.16-13.35.16:888][919]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.03.16-13.35.16:889][919]LogMaterial: Warning: /Engine/Transient.PreviewMaterial_0 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.03.16-13.35.16:889][919]LogMaterial: 	Dynamically lit translucency is not supported for BLEND_Modulate materials.
+[2018.03.16-13.35.16:889][919]LogMaterial: 	Translucency after DOF with BLEND_Modulate is not supported. Consider using BLEND_Translucent with black emissive
+[2018.03.16-13.35.16:893][919]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.03.16-13.35.16:894][919]LogMaterial: Warning: /Engine/Transient.PreviewMaterial_0 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.03.16-13.35.16:894][919]LogMaterial: 	Dynamically lit translucency is not supported for BLEND_Modulate materials.
+[2018.03.16-13.35.16:894][919]LogMaterial: 	Translucency after DOF with BLEND_Modulate is not supported. Consider using BLEND_Translucent with black emissive
+[2018.03.16-13.35.16:897][919]MaterialEditorStats: Error: [SM5] Dynamically lit translucency is not supported for BLEND_Modulate materials.
+[2018.03.16-13.35.16:897][919]MaterialEditorStats: Error: [SM5] Translucency after DOF with BLEND_Modulate is not supported. Consider using BLEND_Translucent with black emissive
+[2018.03.16-13.35.23:222][288]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.03.16-13.35.23:244][288]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.03.16-13.35.29:414][608]MaterialEditorStats: Base pass shader: 115 instructions
+[2018.03.16-13.35.29:414][608]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2018.03.16-13.35.29:414][608]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.03.16-13.35.29:414][608]MaterialEditorStats: Texture samplers: 5/16
+[2018.03.16-13.35.29:414][608]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.03.16-13.35.47:569][669]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.03.16-13.35.47:569][669]LogMaterial: Warning: /Engine/Transient.PreviewMaterial_0 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.03.16-13.35.47:569][669]LogMaterial: 	Dynamically lit translucency is not supported for BLEND_Modulate materials.
+[2018.03.16-13.35.47:569][669]LogMaterial: 	Translucency after DOF with BLEND_Modulate is not supported. Consider using BLEND_Translucent with black emissive
+[2018.03.16-13.35.47:574][669]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.03.16-13.35.47:574][669]LogMaterial: Warning: /Engine/Transient.PreviewMaterial_0 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.03.16-13.35.47:574][669]LogMaterial: 	Dynamically lit translucency is not supported for BLEND_Modulate materials.
+[2018.03.16-13.35.47:574][669]LogMaterial: 	Translucency after DOF with BLEND_Modulate is not supported. Consider using BLEND_Translucent with black emissive
+[2018.03.16-13.35.47:578][669]MaterialEditorStats: Error: [SM5] Dynamically lit translucency is not supported for BLEND_Modulate materials.
+[2018.03.16-13.35.47:578][669]MaterialEditorStats: Error: [SM5] Translucency after DOF with BLEND_Modulate is not supported. Consider using BLEND_Translucent with black emissive
+[2018.03.16-13.35.51:924][920]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.03.16-13.35.51:952][920]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.03.16-13.35.56:291][ 63]MaterialEditorStats: Base pass shader: 49 instructions
+[2018.03.16-13.35.56:291][ 63]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 80 instructions
+[2018.03.16-13.35.56:291][ 63]MaterialEditorStats: Vertex shader: 124 instructions
+[2018.03.16-13.35.56:291][ 63]MaterialEditorStats: Texture samplers: 3/16
+[2018.03.16-13.35.56:291][ 63]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.03.16-13.36.22:268][528]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.03.16-13.36.22:290][528]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.03.16-13.36.24:586][616]MaterialEditorStats: Base pass shader: 115 instructions
+[2018.03.16-13.36.24:586][616]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2018.03.16-13.36.24:586][616]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.03.16-13.36.24:586][616]MaterialEditorStats: Texture samplers: 5/16
+[2018.03.16-13.36.24:586][616]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.03.16-13.38.07:014][344]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.03.16-13.38.07:058][344]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.03.16-13.38.09:839][431]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.03.16-13.38.09:904][431]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.03.16-13.38.27:100][260]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.03.16-13.38.27:131][260]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.03.16-13.38.39:394][685]MaterialEditorStats: Base pass shader: 302 instructions
+[2018.03.16-13.38.39:394][685]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 391 instructions
+[2018.03.16-13.38.39:394][685]MaterialEditorStats: Vertex shader: 124 instructions
+[2018.03.16-13.38.39:394][685]MaterialEditorStats: Texture samplers: 6/16
+[2018.03.16-13.38.39:394][685]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.03.16-13.39.13:127][645]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (floor_1)
+[2018.03.16-13.39.15:510][787]Cmd: DELETE
+[2018.03.16-13.39.15:510][787]Cmd: ACTOR DELETE
+[2018.03.16-13.39.15:512][787]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.03.16-13.39.15:523][787]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2018.03.16-13.40.43:655][529]Cmd: OBJ SAVEPACKAGE PACKAGE="/Temp/Untitled_1" FILE="C:/Users/jay/Documents/GitHub/proefProeven/Saved/Autosaves/Temp/Untitled_1_Auto4.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2018.03.16-13.40.43:690][529]LogSavePackage: Save=34.73ms
+[2018.03.16-13.40.43:690][529]LogSavePackage: Moving 'C:/Users/jay/Documents/GitHub/proefProeven/Saved/Untitled_1_Auto4326FE49E4BB2EB51874AD6B4EFC8751C.tmp' to 'C:/Users/jay/Documents/GitHub/proefProeven/Saved/Autosaves/Temp/Untitled_1_Auto4.umap'
+[2018.03.16-13.40.43:691][529]LogSavePackage: Display: Finished SavePackage C:/Users/jay/Documents/GitHub/proefProeven/Saved/Autosaves/Temp/Untitled_1_Auto4.umap
+[2018.03.16-13.40.43:694][529]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 0.051
+[2018.03.16-13.40.43:694][529]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.051
+[2018.03.16-13.43.04:220][949]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.03.16-13.43.04:251][949]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.03.16-13.43.08:436][124]MaterialEditorStats: Base pass shader: 50 instructions
+[2018.03.16-13.43.08:436][124]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 81 instructions
+[2018.03.16-13.43.08:436][124]MaterialEditorStats: Vertex shader: 124 instructions
+[2018.03.16-13.43.08:436][124]MaterialEditorStats: Texture samplers: 3/16
+[2018.03.16-13.43.08:436][124]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.03.16-13.43.28:890][330]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.03.16-13.43.28:918][330]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.03.16-13.43.42:157][878]MaterialEditorStats: Base pass shader: 302 instructions
+[2018.03.16-13.43.42:158][878]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 391 instructions
+[2018.03.16-13.43.42:158][878]MaterialEditorStats: Vertex shader: 124 instructions
+[2018.03.16-13.43.42:158][878]MaterialEditorStats: Texture samplers: 6/16
+[2018.03.16-13.43.42:158][878]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.03.16-13.44.09:279][493]LogMaterialEditor: Applying material Master_Mat
+[2018.03.16-13.44.09:807][493]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.03.16-13.44.09:877][493]LogMaterial: Missing cached shader map for material Master_Mat, compiling. 
+[2018.03.16-13.44.09:924][493]LogMaterial: Missing cached shader map for material Master_Mat, compiling. 
+[2018.03.16-13.44.09:994][493]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Master_Mat, compiling. 
+[2018.03.16-13.44.18:488][493]TextureStreamingBuild: Display: Compiling optional shaders took 8.504 seconds.
+[2018.03.16-13.44.32:534][998]LogActorFactory: Actor Factory created floor_1
+[2018.03.16-13.44.34:204][ 70]LogActorFactory: Actor Factory created floor_1
+[2018.03.16-13.44.40:620][368]MaterialEditorStats: Base pass shader: 302 instructions
+[2018.03.16-13.44.40:620][368]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 391 instructions
+[2018.03.16-13.44.40:620][368]MaterialEditorStats: Vertex shader: 124 instructions
+[2018.03.16-13.44.40:620][368]MaterialEditorStats: Texture samplers: 6/16
+[2018.03.16-13.44.40:620][368]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.03.16-13.45.49:302][309]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.03.16-13.45.49:333][309]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.03.16-13.46.08:744][ 36]MaterialEditorStats: Base pass shader: 601 instructions
+[2018.03.16-13.46.08:744][ 36]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 678 instructions
+[2018.03.16-13.46.08:744][ 36]MaterialEditorStats: Vertex shader: 124 instructions
+[2018.03.16-13.46.08:744][ 36]MaterialEditorStats: Texture samplers: 6/16
+[2018.03.16-13.46.08:744][ 36]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.03.16-13.48.48:063][392]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.03.16-13.48.48:092][392]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.03.16-13.48.50:529][490]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.03.16-13.48.50:589][490]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.03.16-13.48.52:497][559]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.03.16-13.48.52:554][559]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.03.16-13.48.54:402][625]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.03.16-13.48.54:461][625]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.03.16-13.48.56:735][707]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.03.16-13.48.56:793][707]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.03.16-13.49.15:283][409]MaterialEditorStats: Base pass shader: 601 instructions
+[2018.03.16-13.49.15:283][409]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 678 instructions
+[2018.03.16-13.49.15:284][409]MaterialEditorStats: Vertex shader: 124 instructions
+[2018.03.16-13.49.15:284][409]MaterialEditorStats: Texture samplers: 6/16
+[2018.03.16-13.49.15:284][409]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.03.16-13.49.16:761][488]LogMaterialEditor: Applying material Master_Mat
+[2018.03.16-13.49.17:477][488]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.03.16-13.49.17:567][488]LogMaterial: Missing cached shader map for material Master_Mat, compiling. 
+[2018.03.16-13.49.17:647][488]LogMaterial: Missing cached shader map for material Master_Mat, compiling. 
+[2018.03.16-13.49.17:750][488]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Master_Mat, compiling. 
+[2018.03.16-13.49.28:717][488]TextureStreamingBuild: Display: Compiling optional shaders took 10.980 seconds.
+[2018.03.16-13.49.59:397][757]MaterialEditorStats: Base pass shader: 601 instructions
+[2018.03.16-13.49.59:397][757]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 678 instructions
+[2018.03.16-13.49.59:397][757]MaterialEditorStats: Vertex shader: 124 instructions
+[2018.03.16-13.49.59:397][757]MaterialEditorStats: Texture samplers: 6/16
+[2018.03.16-13.49.59:397][757]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.03.16-13.50.16:769][776]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.03.16-13.50.16:797][776]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.03.16-13.50.30:018][252]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.03.16-13.50.30:076][252]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.03.16-13.50.43:682][739]MaterialEditorStats: Base pass shader: 301 instructions
+[2018.03.16-13.50.43:682][739]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 390 instructions
+[2018.03.16-13.50.43:682][739]MaterialEditorStats: Vertex shader: 124 instructions
+[2018.03.16-13.50.43:682][739]MaterialEditorStats: Texture samplers: 6/16
+[2018.03.16-13.50.43:682][739]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.03.16-13.51.03:758][899]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.03.16-13.51.03:788][899]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.03.16-13.51.06:477][  7]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.03.16-13.51.06:478][  7]LogMaterial: Warning: /Engine/Transient.PreviewMaterial_0 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.03.16-13.51.06:478][  7]LogMaterial: 	Dynamically lit translucency is not supported for BLEND_Modulate materials.
+[2018.03.16-13.51.06:478][  7]LogMaterial: 	Translucency after DOF with BLEND_Modulate is not supported. Consider using BLEND_Translucent with black emissive
+[2018.03.16-13.51.06:485][  7]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.03.16-13.51.06:486][  7]LogMaterial: Warning: /Engine/Transient.PreviewMaterial_0 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.03.16-13.51.06:486][  7]LogMaterial: 	Dynamically lit translucency is not supported for BLEND_Modulate materials.
+[2018.03.16-13.51.06:486][  7]LogMaterial: 	Translucency after DOF with BLEND_Modulate is not supported. Consider using BLEND_Translucent with black emissive
+[2018.03.16-13.51.06:491][  7]MaterialEditorStats: Error: [SM5] Dynamically lit translucency is not supported for BLEND_Modulate materials.
+[2018.03.16-13.51.06:492][  7]MaterialEditorStats: Error: [SM5] Translucency after DOF with BLEND_Modulate is not supported. Consider using BLEND_Translucent with black emissive
+[2018.03.16-13.51.08:615][120]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.03.16-13.51.08:653][120]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.03.16-13.51.21:485][590]MaterialEditorStats: Base pass shader: 301 instructions
+[2018.03.16-13.51.21:486][590]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 390 instructions
+[2018.03.16-13.51.21:486][590]MaterialEditorStats: Vertex shader: 124 instructions
+[2018.03.16-13.51.21:486][590]MaterialEditorStats: Texture samplers: 6/16
+[2018.03.16-13.51.21:486][590]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.03.16-13.51.40:193][696]LogMaterialEditor: Applying material Master_Mat
+[2018.03.16-13.51.40:728][696]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.03.16-13.51.40:807][696]LogMaterial: Missing cached shader map for material Master_Mat, compiling. 
+[2018.03.16-13.51.40:861][696]LogMaterial: Missing cached shader map for material Master_Mat, compiling. 
+[2018.03.16-13.51.40:938][696]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Master_Mat, compiling. 
+[2018.03.16-13.51.49:473][696]TextureStreamingBuild: Display: Compiling optional shaders took 8.545 seconds.
+[2018.03.16-13.52.12:017][630]MaterialEditorStats: Base pass shader: 301 instructions
+[2018.03.16-13.52.12:017][630]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 390 instructions
+[2018.03.16-13.52.12:017][630]MaterialEditorStats: Vertex shader: 124 instructions
+[2018.03.16-13.52.12:017][630]MaterialEditorStats: Texture samplers: 6/16
+[2018.03.16-13.52.12:017][630]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.03.16-13.52.21:846][142]Cmd: OBJ SAVEPACKAGE PACKAGE="/Temp/Untitled_1" FILE="C:/Users/jay/Documents/GitHub/proefProeven/Saved/Autosaves/Temp/Untitled_1_Auto5.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2018.03.16-13.52.21:893][142]LogSavePackage: Save=46.88ms
+[2018.03.16-13.52.21:893][142]LogSavePackage: Moving 'C:/Users/jay/Documents/GitHub/proefProeven/Saved/Untitled_1_Auto596D8BBBC430858DEABBB81B19990D857.tmp' to 'C:/Users/jay/Documents/GitHub/proefProeven/Saved/Autosaves/Temp/Untitled_1_Auto5.umap'
+[2018.03.16-13.52.21:896][142]LogSavePackage: Display: Finished SavePackage C:/Users/jay/Documents/GitHub/proefProeven/Saved/Autosaves/Temp/Untitled_1_Auto5.umap
+[2018.03.16-13.52.21:898][142]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 0.069
+[2018.03.16-13.52.21:898][142]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.069
+[2018.03.16-13.52.21:900][142]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Master_Mat] ([1] browsable assets)...
+[2018.03.16-13.52.21:944][142]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Models/Master_Mat.Master_Mat]
+[2018.03.16-13.52.21:944][142]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Master_Mat]
+[2018.03.16-13.52.21:944][142]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Master_Mat" FILE="C:/Users/jay/Documents/GitHub/proefProeven/Saved/Autosaves/Game/Models/Master_Mat_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2018.03.16-13.52.21:978][142]LogSavePackage: Save=23.45ms
+[2018.03.16-13.52.21:978][142]LogSavePackage: Moving 'C:/Users/jay/Documents/GitHub/proefProeven/Saved/Master_Mat_Auto512F3C3834D51516AD23C31A6E1C1DACE.tmp' to 'C:/Users/jay/Documents/GitHub/proefProeven/Saved/Autosaves/Game/Models/Master_Mat_Auto5.uasset'
+[2018.03.16-13.52.21:981][142]LogSavePackage: Display: Finished SavePackage C:/Users/jay/Documents/GitHub/proefProeven/Saved/Autosaves/Game/Models/Master_Mat_Auto5.uasset
+[2018.03.16-13.52.21:981][142]LogFileHelpers: Auto-saving content packages took 0.081
+[2018.03.16-13.52.26:071][378]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.03.16-13.52.26:103][378]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.03.16-13.52.43:459][132]MaterialEditorStats: Base pass shader: 302 instructions
+[2018.03.16-13.52.43:459][132]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 391 instructions
+[2018.03.16-13.52.43:459][132]MaterialEditorStats: Vertex shader: 124 instructions
+[2018.03.16-13.52.43:460][132]MaterialEditorStats: Texture samplers: 6/16
+[2018.03.16-13.52.43:460][132]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.03.16-13.58.28:289][206]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.03.16-13.58.33:061][370]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.03.16-13.58.33:125][370]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_2, compiling. 
+[2018.03.16-13.58.38:387][542]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.03.16-13.58.56:750][180]MaterialEditorStats: Base pass shader: 302 instructions
+[2018.03.16-13.58.56:750][180]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 391 instructions
+[2018.03.16-13.58.56:751][180]MaterialEditorStats: Vertex shader: 124 instructions
+[2018.03.16-13.58.56:751][180]MaterialEditorStats: Texture samplers: 6/16
+[2018.03.16-13.58.56:751][180]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.03.16-13.59.51:070][166]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.03.16-13.59.51:096][166]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.03.16-14.00.04:536][651]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.03.16-14.00.04:577][651]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_2, compiling. 
+[2018.03.16-14.00.04:612][651]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.03.16-14.00.17:244][ 75]MaterialEditorStats: Base pass shader: 302 instructions
+[2018.03.16-14.00.17:244][ 75]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 391 instructions
+[2018.03.16-14.00.17:244][ 75]MaterialEditorStats: Vertex shader: 124 instructions
+[2018.03.16-14.00.17:244][ 75]MaterialEditorStats: Texture samplers: 6/16
+[2018.03.16-14.00.17:244][ 75]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.03.16-14.00.19:900][207]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.03.16-14.00.37:018][917]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.03.16-14.00.37:132][918]LogMaterial: Missing cached shader map for material Material_0, compiling. 
+[2018.03.16-14.00.43:466][136]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.03.16-14.01.49:079][648]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.03.16-14.01.57:386][908]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.03.16-14.01.57:441][908]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_2, compiling. 
+[2018.03.16-14.02.12:144][414]MaterialEditorStats: Base pass shader: 302 instructions
+[2018.03.16-14.02.12:144][414]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 391 instructions
+[2018.03.16-14.02.12:144][414]MaterialEditorStats: Vertex shader: 124 instructions
+[2018.03.16-14.02.12:144][414]MaterialEditorStats: Texture samplers: 6/16
+[2018.03.16-14.02.12:144][414]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.03.16-14.02.25:761][129]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.03.16-14.02.35:080][438]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionLinearInterpolate_0, compiling. 
+[2018.03.16-14.02.38:146][550]MaterialEditorStats: Base pass shader: 299 instructions
+[2018.03.16-14.02.38:146][550]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 388 instructions
+[2018.03.16-14.02.38:146][550]MaterialEditorStats: Vertex shader: 124 instructions
+[2018.03.16-14.02.38:146][550]MaterialEditorStats: Texture samplers: 6/16
+[2018.03.16-14.02.38:146][550]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.03.16-14.05.01:839][ 48]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.03.16-14.05.08:701][286]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.03.16-14.05.17:603][588]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.03.16-14.05.21:202][706]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant_0, compiling. 
+[2018.03.16-14.05.26:104][866]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.03.16-14.05.26:164][866]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant_0, compiling. 
+[2018.03.16-14.05.28:302][936]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.03.16-14.05.28:363][936]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant_0, compiling. 
+[2018.03.16-14.05.31:728][ 47]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.03.16-14.05.31:784][ 47]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant_0, compiling. 
+[2018.03.16-14.05.33:674][111]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.03.16-14.05.33:734][111]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_2, compiling. 
+[2018.03.16-14.05.47:433][567]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.03.16-14.05.47:486][567]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.03.16-14.05.49:828][644]MaterialEditorStats: Base pass shader: 119 instructions
+[2018.03.16-14.05.49:828][644]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 195 instructions
+[2018.03.16-14.05.49:828][644]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.03.16-14.05.49:828][644]MaterialEditorStats: Texture samplers: 5/16
+[2018.03.16-14.05.49:828][644]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.03.16-14.05.53:577][836]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.03.16-14.05.56:659][955]MaterialEditorStats: Base pass shader: 120 instructions
+[2018.03.16-14.05.56:659][955]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 196 instructions
+[2018.03.16-14.05.56:659][955]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.03.16-14.05.56:659][955]MaterialEditorStats: Texture samplers: 5/16
+[2018.03.16-14.05.56:659][955]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.03.16-14.05.58:948][ 72]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.03.16-14.05.58:999][ 72]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant_0, compiling. 
+[2018.03.16-14.06.02:309][189]MaterialEditorStats: Base pass shader: 122 instructions
+[2018.03.16-14.06.02:309][189]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 198 instructions
+[2018.03.16-14.06.02:309][189]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.03.16-14.06.02:309][189]MaterialEditorStats: Texture samplers: 5/16
+[2018.03.16-14.06.02:309][189]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.03.16-14.06.10:630][625]LogMaterialEditor: Applying material Master_Mat
+[2018.03.16-14.06.11:215][625]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.03.16-14.06.11:313][625]LogMaterial: Missing cached shader map for material Master_Mat, compiling. 
+[2018.03.16-14.06.11:402][625]LogMaterial: Missing cached shader map for material Master_Mat, compiling. 
+[2018.03.16-14.06.11:493][625]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Master_Mat, compiling. 
+[2018.03.16-14.06.13:522][625]TextureStreamingBuild: Display: Compiling optional shaders took 2.038 seconds.
+[2018.03.16-14.06.17:870][846]MaterialEditorStats: Base pass shader: 122 instructions
+[2018.03.16-14.06.17:870][846]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 198 instructions
+[2018.03.16-14.06.17:870][846]MaterialEditorStats: Vertex shader: 37 instructions
+[2018.03.16-14.06.17:870][846]MaterialEditorStats: Texture samplers: 6/16
+[2018.03.16-14.06.17:870][846]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.03.16-14.06.45:005][457]Cmd: TRANSACTION UNDO
+[2018.03.16-14.06.45:005][457]LogEditorTransaction: Undo Move Actors
+[2018.03.16-14.06.45:010][457]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.03.16-14.06.48:736][651]MaterialEditorStats: Base pass shader: 122 instructions
+[2018.03.16-14.06.48:736][651]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 198 instructions
+[2018.03.16-14.06.48:736][651]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.03.16-14.06.48:736][651]MaterialEditorStats: Texture samplers: 5/16
+[2018.03.16-14.06.48:736][651]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.03.16-14.06.51:927][833]Cmd: OBJ SAVEPACKAGE PACKAGE="/Temp/Untitled_1" FILE="C:/Users/jay/Documents/GitHub/proefProeven/Saved/Autosaves/Temp/Untitled_1_Auto6.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2018.03.16-14.06.51:976][833]LogSavePackage: Save=48.01ms
+[2018.03.16-14.06.51:976][833]LogSavePackage: Moving 'C:/Users/jay/Documents/GitHub/proefProeven/Saved/Untitled_1_Auto60A71CFCF464B5CB3DD2CB78D98E5DBDB.tmp' to 'C:/Users/jay/Documents/GitHub/proefProeven/Saved/Autosaves/Temp/Untitled_1_Auto6.umap'
+[2018.03.16-14.06.51:977][833]LogSavePackage: Display: Finished SavePackage C:/Users/jay/Documents/GitHub/proefProeven/Saved/Autosaves/Temp/Untitled_1_Auto6.umap
+[2018.03.16-14.06.51:980][833]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 0.065
+[2018.03.16-14.06.51:980][833]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.065
+[2018.03.16-14.06.51:982][833]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Master_Mat] ([1] browsable assets)...
+[2018.03.16-14.06.52:005][833]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Models/Master_Mat.Master_Mat]
+[2018.03.16-14.06.52:005][833]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Master_Mat]
+[2018.03.16-14.06.52:005][833]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Master_Mat" FILE="C:/Users/jay/Documents/GitHub/proefProeven/Saved/Autosaves/Game/Models/Master_Mat_Auto6.uasset" SILENT=false AUTOSAVING=true
+[2018.03.16-14.06.52:044][833]LogSavePackage: Save=28.16ms
+[2018.03.16-14.06.52:044][833]LogSavePackage: Moving 'C:/Users/jay/Documents/GitHub/proefProeven/Saved/Master_Mat_Auto68EC21AAC40BF82D16FA482AB48121BDF.tmp' to 'C:/Users/jay/Documents/GitHub/proefProeven/Saved/Autosaves/Game/Models/Master_Mat_Auto6.uasset'
+[2018.03.16-14.06.52:046][833]LogSavePackage: Display: Finished SavePackage C:/Users/jay/Documents/GitHub/proefProeven/Saved/Autosaves/Game/Models/Master_Mat_Auto6.uasset
+[2018.03.16-14.06.52:046][833]LogFileHelpers: Auto-saving content packages took 0.065
+[2018.03.16-14.07.18:111][311]LogActorFactory: Actor Factory created Wall_1
+[2018.03.16-14.07.19:387][387]LogActorFactory: Actor Factory created Wall_1
+[2018.03.16-14.08.02:090][761]LogMaterialEditor: Saving and Compiling material Master_Mat
+[2018.03.16-14.08.02:621][761]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.03.16-14.08.02:708][761]LogMaterial: Missing cached shader map for material Master_Mat, compiling. 
+[2018.03.16-14.08.02:770][761]LogMaterial: Missing cached shader map for material Master_Mat, compiling. 
+[2018.03.16-14.08.02:849][761]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Master_Mat, compiling. 
+[2018.03.16-14.08.05:517][761]TextureStreamingBuild: Display: Compiling optional shaders took 2.676 seconds.
+[2018.03.16-14.08.09:108][761]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Master_Mat" FILE="C:/Users/jay/Documents/GitHub/proefProeven/Content/Models/Master_Mat.uasset" SILENT=true
+[2018.03.16-14.08.09:142][761]LogSavePackage: Save=28.23ms
+[2018.03.16-14.08.09:142][761]LogSavePackage: Moving 'C:/Users/jay/Documents/GitHub/proefProeven/Saved/Master_MatB15C826D4DF823968085F2B9F313B27F.tmp' to 'C:/Users/jay/Documents/GitHub/proefProeven/Content/Models/Master_Mat.uasset'
+[2018.03.16-14.08.09:157][761]LogSavePackage: Display: Finished SavePackage C:/Users/jay/Documents/GitHub/proefProeven/Content/Models/Master_Mat.uasset
+[2018.03.16-14.08.09:177][761]MaterialEditorStats: Base pass shader: 122 instructions
+[2018.03.16-14.08.09:177][761]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 198 instructions
+[2018.03.16-14.08.09:178][761]MaterialEditorStats: Vertex shader: 37 instructions
+[2018.03.16-14.08.09:178][761]MaterialEditorStats: Texture samplers: 6/16
+[2018.03.16-14.08.09:178][761]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.03.16-14.08.29:989][670]Cmd: DELETE
+[2018.03.16-14.08.29:989][670]Cmd: ACTOR DELETE
+[2018.03.16-14.08.29:991][670]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.03.16-14.08.30:001][670]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2018.03.16-14.08.30:378][693]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (floor_1)
+[2018.03.16-14.08.30:881][720]Cmd: DELETE
+[2018.03.16-14.08.30:881][720]Cmd: ACTOR DELETE
+[2018.03.16-14.08.30:883][720]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.03.16-14.08.30:892][720]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2018.03.16-14.08.37:988][972]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Untitled" FILE="C:/Users/jay/Documents/GitHub/proefProeven/Content/Maps/Untitled.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.03.16-14.08.38:031][972]LogSavePackage: Save=30.46ms
+[2018.03.16-14.08.38:031][972]LogSavePackage: Moving 'C:/Users/jay/Documents/GitHub/proefProeven/Saved/UntitledE555C1354F4623E63DBBEB9364B35E3E.tmp' to 'C:/Users/jay/Documents/GitHub/proefProeven/Content/Maps/Untitled.umap'
+[2018.03.16-14.08.38:039][972]LogSavePackage: Display: Finished SavePackage C:/Users/jay/Documents/GitHub/proefProeven/Content/Maps/Untitled.umap
+[2018.03.16-14.08.38:066][972]LogFileHelpers: Saving map 'Untitled' took 0.136
+[2018.03.16-14.08.38:155][972]LogSavePackage: Save=60.14ms
+[2018.03.16-14.08.38:155][972]LogSavePackage: Moving 'C:/Users/jay/Documents/GitHub/proefProeven/Saved/wall_2_NormalBF24D46D41649D40D700C6B3D9FCBA51.tmp' to 'C:/Users/jay/Documents/GitHub/proefProeven/Content/Models/ModularAssets/Walls/Textures/Wall_2/wall_2_Normal.uasset'
+[2018.03.16-14.08.38:164][972]LogSavePackage: Display: Finished SavePackage C:/Users/jay/Documents/GitHub/proefProeven/Content/Models/ModularAssets/Walls/Textures/Wall_2/wall_2_Normal.uasset
+[2018.03.16-14.08.38:330][972]LogSavePackage: Save=146.03ms
+[2018.03.16-14.08.38:330][972]LogSavePackage: Moving 'C:/Users/jay/Documents/GitHub/proefProeven/Saved/wall_2_OcclusionRoughnessMetalli151F6C8748A5205FEACC4D888F37EB9A.tmp' to 'C:/Users/jay/Documents/GitHub/proefProeven/Content/Models/ModularAssets/Walls/Textures/Wall_2/wall_2_OcclusionRoughnessMetallic.uasset'
+[2018.03.16-14.08.38:339][972]LogSavePackage: Display: Finished SavePackage C:/Users/jay/Documents/GitHub/proefProeven/Content/Models/ModularAssets/Walls/Textures/Wall_2/wall_2_OcclusionRoughnessMetallic.uasset
+[2018.03.16-14.08.38:441][972]LogSavePackage: Save=84.43ms
+[2018.03.16-14.08.38:441][972]LogSavePackage: Moving 'C:/Users/jay/Documents/GitHub/proefProeven/Saved/wall_2_BaseColor93D007144F21E9153F6CE49ED084BBA2.tmp' to 'C:/Users/jay/Documents/GitHub/proefProeven/Content/Models/ModularAssets/Walls/Textures/Wall_2/wall_2_BaseColor.uasset'
+[2018.03.16-14.08.38:449][972]LogSavePackage: Display: Finished SavePackage C:/Users/jay/Documents/GitHub/proefProeven/Content/Models/ModularAssets/Walls/Textures/Wall_2/wall_2_BaseColor.uasset
+[2018.03.16-14.08.38:539][972]LogSavePackage: Save=75.51ms
+[2018.03.16-14.08.38:539][972]LogSavePackage: Moving 'C:/Users/jay/Documents/GitHub/proefProeven/Saved/wall__3_Normal6F3334AA4D93A450E4784F8AB9240CCD.tmp' to 'C:/Users/jay/Documents/GitHub/proefProeven/Content/Models/ModularAssets/Walls/Textures/Wall_3/wall__3_Normal.uasset'
+[2018.03.16-14.08.38:547][972]LogSavePackage: Display: Finished SavePackage C:/Users/jay/Documents/GitHub/proefProeven/Content/Models/ModularAssets/Walls/Textures/Wall_3/wall__3_Normal.uasset
+[2018.03.16-14.08.38:715][972]LogSavePackage: Save=151.63ms
+[2018.03.16-14.08.38:715][972]LogSavePackage: Moving 'C:/Users/jay/Documents/GitHub/proefProeven/Saved/wall__3_OcclusionRoughnessMetall183E23044A20E668FA1E7ABDA0B80788.tmp' to 'C:/Users/jay/Documents/GitHub/proefProeven/Content/Models/ModularAssets/Walls/Textures/Wall_3/wall__3_OcclusionRoughnessMetallic.uasset'
+[2018.03.16-14.08.38:725][972]LogSavePackage: Display: Finished SavePackage C:/Users/jay/Documents/GitHub/proefProeven/Content/Models/ModularAssets/Walls/Textures/Wall_3/wall__3_OcclusionRoughnessMetallic.uasset
+[2018.03.16-14.08.38:840][972]LogSavePackage: Save=90.63ms
+[2018.03.16-14.08.38:840][972]LogSavePackage: Moving 'C:/Users/jay/Documents/GitHub/proefProeven/Saved/wall__3_BaseColor5C7CF79F4A671CDCF4F356BEAF7E93DD.tmp' to 'C:/Users/jay/Documents/GitHub/proefProeven/Content/Models/ModularAssets/Walls/Textures/Wall_3/wall__3_BaseColor.uasset'
+[2018.03.16-14.08.38:848][972]LogSavePackage: Display: Finished SavePackage C:/Users/jay/Documents/GitHub/proefProeven/Content/Models/ModularAssets/Walls/Textures/Wall_3/wall__3_BaseColor.uasset
+[2018.03.16-14.08.38:929][972]LogSavePackage: Save=67.92ms
+[2018.03.16-14.08.38:929][972]LogSavePackage: Moving 'C:/Users/jay/Documents/GitHub/proefProeven/Saved/wall__4_NormalEC447E5842E4D91AB896999F8B378918.tmp' to 'C:/Users/jay/Documents/GitHub/proefProeven/Content/Models/ModularAssets/Walls/Textures/Wall_4/wall__4_Normal.uasset'
+[2018.03.16-14.08.38:940][972]LogSavePackage: Display: Finished SavePackage C:/Users/jay/Documents/GitHub/proefProeven/Content/Models/ModularAssets/Walls/Textures/Wall_4/wall__4_Normal.uasset
+[2018.03.16-14.08.39:101][972]LogSavePackage: Save=145.68ms
+[2018.03.16-14.08.39:101][972]LogSavePackage: Moving 'C:/Users/jay/Documents/GitHub/proefProeven/Saved/wall__4_OcclusionRoughnessMetall721E9E4E40408AFD0D77149FC68C4022.tmp' to 'C:/Users/jay/Documents/GitHub/proefProeven/Content/Models/ModularAssets/Walls/Textures/Wall_4/wall__4_OcclusionRoughnessMetallic.uasset'
+[2018.03.16-14.08.39:110][972]LogSavePackage: Display: Finished SavePackage C:/Users/jay/Documents/GitHub/proefProeven/Content/Models/ModularAssets/Walls/Textures/Wall_4/wall__4_OcclusionRoughnessMetallic.uasset
+[2018.03.16-14.08.39:206][972]LogSavePackage: Save=79.59ms
+[2018.03.16-14.08.39:206][972]LogSavePackage: Moving 'C:/Users/jay/Documents/GitHub/proefProeven/Saved/wall__4_BaseColor113E307D452C3D64328DBD86775A55B5.tmp' to 'C:/Users/jay/Documents/GitHub/proefProeven/Content/Models/ModularAssets/Walls/Textures/Wall_4/wall__4_BaseColor.uasset'
+[2018.03.16-14.08.39:216][972]LogSavePackage: Display: Finished SavePackage C:/Users/jay/Documents/GitHub/proefProeven/Content/Models/ModularAssets/Walls/Textures/Wall_4/wall__4_BaseColor.uasset
+[2018.03.16-14.08.39:339][972]LogSavePackage: Save=89.10ms
+[2018.03.16-14.08.39:339][972]LogSavePackage: Moving 'C:/Users/jay/Documents/GitHub/proefProeven/Saved/wal_corner_BaseColorA28CFBF54DFC7C4E442AEAA4B1C578C6.tmp' to 'C:/Users/jay/Documents/GitHub/proefProeven/Content/Models/ModularAssets/Walls/Textures/Wall_corner/wal_corner_BaseColor.uasset'
+[2018.03.16-14.08.39:347][972]LogSavePackage: Display: Finished SavePackage C:/Users/jay/Documents/GitHub/proefProeven/Content/Models/ModularAssets/Walls/Textures/Wall_corner/wal_corner_BaseColor.uasset
+[2018.03.16-14.08.39:467][972]LogSavePackage: Save=99.24ms
+[2018.03.16-14.08.39:467][972]LogSavePackage: Moving 'C:/Users/jay/Documents/GitHub/proefProeven/Saved/wal_corner_Normal30B9BF3E4F5B36B68B8D388C30F55450.tmp' to 'C:/Users/jay/Documents/GitHub/proefProeven/Content/Models/ModularAssets/Walls/Textures/Wall_corner/wal_corner_Normal.uasset'
+[2018.03.16-14.08.39:477][972]LogSavePackage: Display: Finished SavePackage C:/Users/jay/Documents/GitHub/proefProeven/Content/Models/ModularAssets/Walls/Textures/Wall_corner/wal_corner_Normal.uasset
+[2018.03.16-14.08.39:637][972]LogSavePackage: Save=144.49ms
+[2018.03.16-14.08.39:637][972]LogSavePackage: Moving 'C:/Users/jay/Documents/GitHub/proefProeven/Saved/wal_corner_OcclusionRoughnessMetCE0347D9447F7B68C2FB1E9E0D8ADD99.tmp' to 'C:/Users/jay/Documents/GitHub/proefProeven/Content/Models/ModularAssets/Walls/Textures/Wall_corner/wal_corner_OcclusionRoughnessMetallic.uasset'
+[2018.03.16-14.08.39:645][972]LogSavePackage: Display: Finished SavePackage C:/Users/jay/Documents/GitHub/proefProeven/Content/Models/ModularAssets/Walls/Textures/Wall_corner/wal_corner_OcclusionRoughnessMetallic.uasset
+[2018.03.16-14.08.39:732][972]LogSavePackage: Save=67.07ms
+[2018.03.16-14.08.39:732][972]LogSavePackage: Moving 'C:/Users/jay/Documents/GitHub/proefProeven/Saved/floor_1_Normal9FE15BD647F89A846DE231A7707391E1.tmp' to 'C:/Users/jay/Documents/GitHub/proefProeven/Content/Models/ModularAssets/Floors/Textures/Floor_1/floor_1_Normal.uasset'
+[2018.03.16-14.08.39:741][972]LogSavePackage: Display: Finished SavePackage C:/Users/jay/Documents/GitHub/proefProeven/Content/Models/ModularAssets/Floors/Textures/Floor_1/floor_1_Normal.uasset
+[2018.03.16-14.08.39:923][972]LogSavePackage: Save=146.70ms
+[2018.03.16-14.08.39:923][972]LogSavePackage: Moving 'C:/Users/jay/Documents/GitHub/proefProeven/Saved/floor_1_OcclusionRoughnessMetall8AC76C5D49CAD5DDB987F38B1DB7E4C1.tmp' to 'C:/Users/jay/Documents/GitHub/proefProeven/Content/Models/ModularAssets/Floors/Textures/Floor_1/floor_1_OcclusionRoughnessMetallic.uasset'
+[2018.03.16-14.08.39:932][972]LogSavePackage: Display: Finished SavePackage C:/Users/jay/Documents/GitHub/proefProeven/Content/Models/ModularAssets/Floors/Textures/Floor_1/floor_1_OcclusionRoughnessMetallic.uasset
+[2018.03.16-14.08.40:026][972]LogSavePackage: Save=74.80ms
+[2018.03.16-14.08.40:026][972]LogSavePackage: Moving 'C:/Users/jay/Documents/GitHub/proefProeven/Saved/floor_1_BaseColorC3C7C6AB4AAD184E509C73A19BBFB08F.tmp' to 'C:/Users/jay/Documents/GitHub/proefProeven/Content/Models/ModularAssets/Floors/Textures/Floor_1/floor_1_BaseColor.uasset'
+[2018.03.16-14.08.40:034][972]LogSavePackage: Display: Finished SavePackage C:/Users/jay/Documents/GitHub/proefProeven/Content/Models/ModularAssets/Floors/Textures/Floor_1/floor_1_BaseColor.uasset
+[2018.03.16-14.08.40:095][972]LogSavePackage: Save=47.76ms
+[2018.03.16-14.08.40:095][972]LogSavePackage: Moving 'C:/Users/jay/Documents/GitHub/proefProeven/Saved/floor_2_NormalBB6C9F7A4BFB01A455DC818467C1D110.tmp' to 'C:/Users/jay/Documents/GitHub/proefProeven/Content/Models/ModularAssets/Floors/Textures/Floor_2/floor_2_Normal.uasset'
+[2018.03.16-14.08.40:103][972]LogSavePackage: Display: Finished SavePackage C:/Users/jay/Documents/GitHub/proefProeven/Content/Models/ModularAssets/Floors/Textures/Floor_2/floor_2_Normal.uasset
+[2018.03.16-14.08.40:214][972]LogSavePackage: Save=97.46ms
+[2018.03.16-14.08.40:214][972]LogSavePackage: Moving 'C:/Users/jay/Documents/GitHub/proefProeven/Saved/floor_2_OcclusionRoughnessMetall904414C547C1D94F63B587B8A93DC219.tmp' to 'C:/Users/jay/Documents/GitHub/proefProeven/Content/Models/ModularAssets/Floors/Textures/Floor_2/floor_2_OcclusionRoughnessMetallic.uasset'
+[2018.03.16-14.08.40:219][972]LogSavePackage: Display: Finished SavePackage C:/Users/jay/Documents/GitHub/proefProeven/Content/Models/ModularAssets/Floors/Textures/Floor_2/floor_2_OcclusionRoughnessMetallic.uasset
+[2018.03.16-14.08.40:321][972]LogSavePackage: Save=72.36ms
+[2018.03.16-14.08.40:321][972]LogSavePackage: Moving 'C:/Users/jay/Documents/GitHub/proefProeven/Saved/floor_2_BaseColor7298EF4441E8AD16BD5929A7469E0FCB.tmp' to 'C:/Users/jay/Documents/GitHub/proefProeven/Content/Models/ModularAssets/Floors/Textures/Floor_2/floor_2_BaseColor.uasset'
+[2018.03.16-14.08.40:327][972]LogSavePackage: Display: Finished SavePackage C:/Users/jay/Documents/GitHub/proefProeven/Content/Models/ModularAssets/Floors/Textures/Floor_2/floor_2_BaseColor.uasset
+[2018.03.16-14.09.14:357][796]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.03.16-14.09.14:367][796]LightingResults: New page: Lighting Build
+[2018.03.16-14.09.14:368][796]LoadErrors: New page: Loading map: Template_Default.umap
+[2018.03.16-14.09.14:369][796]MapCheck: New page: Map Check
+[2018.03.16-14.09.14:369][796]LightingResults: New page: Lighting Build
+[2018.03.16-14.09.14:426][796]LogAIModule: Creating AISystem for world Untitled_2
+[2018.03.16-14.09.14:432][796]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.03.16-14.09.14:447][796]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.03.16-14.09.14:501][796]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 53.47ms to complete.
+[2018.03.16-14.09.14:501][796]LogFileHelpers: Loading map 'Template_Default' took 0.146
+[2018.03.16-14.09.34:934][661]LogLinker: Warning: Can't find file '/Game/Maps/Untitled_BuiltData'
+[2018.03.16-14.09.34:934][661]LogLinker: Warning: Can't find file for asset '/Game/Maps/Untitled_BuiltData' while loading C:/Users/jay/Documents/GitHub/proefProeven/Content/Maps/Untitled.umap.
+[2018.03.16-14.09.34:934][661]LoadErrors: Error: /Game/Maps/Untitled : Can't find file for asset. /Game/Maps/Untitled_BuiltData
+[2018.03.16-14.09.34:936][661]LogLinker: Warning: Can't find file '/Game/Maps/Untitled_BuiltData'
+[2018.03.16-14.09.34:936][661]LogLinker: Warning: Can't find file for asset '/Game/Maps/Untitled_BuiltData' while loading C:/Users/jay/Documents/GitHub/proefProeven/Content/Maps/Untitled.umap.
+[2018.03.16-14.09.34:940][661]LogLinker: Warning: Can't find file '/Game/Maps/Untitled_BuiltData'
+[2018.03.16-14.09.34:940][661]LoadErrors: Failed to load /Game/Maps/Untitled_BuiltData.Untitled_BuiltData Referenced by PersistentLevel
+[2018.03.16-14.09.34:940][661]LogLinker: Warning: Can't find file for asset '/Game/Maps/Untitled_BuiltData' while loading NULL.
+[2018.03.16-14.09.34:946][661]LogAIModule: Creating AISystem for world Untitled
+[2018.03.16-14.09.41:329][960]LogBlueprint: Warning: [Compiler FirstPersonCharacter] Input Axis Event references unknown Axis 'LookUpRate' for  InputAxis LookUpRate
+[2018.03.16-14.09.41:329][960]LogBlueprint: Warning: [Compiler FirstPersonCharacter] Input Axis Event references unknown Axis 'TurnRate' for  InputAxis TurnRate
+[2018.03.16-14.09.41:330][960]LogBlueprint: Warning: [Compiler FirstPersonCharacter] Input Axis Event references unknown Axis 'MoveRight' for  InputAxis MoveRight
+[2018.03.16-14.09.41:330][960]LogBlueprint: Warning: [Compiler FirstPersonCharacter] Input Axis Event references unknown Axis 'MoveForward' for  InputAxis MoveForward
+[2018.03.16-14.09.41:330][960]LogBlueprint: Warning: [Compiler FirstPersonCharacter] Input Axis Event references unknown Axis 'LookUp' for  InputAxis LookUp
+[2018.03.16-14.09.41:330][960]LogBlueprint: Warning: [Compiler FirstPersonCharacter] Input Axis Event references unknown Axis 'Turn' for  InputAxis Turn
+[2018.03.16-14.09.41:330][960]LogBlueprint: Warning: [Compiler FirstPersonCharacter] InputAction Event references unknown Action 'Jump' for  InputAction Jump
+[2018.03.16-14.09.41:334][960]LogBlueprint: Warning: [Compiler FirstPersonCharacter] [4239.13] Compile of FirstPersonCharacter successful, but with 7 Warning(s) [in 9 ms] (/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter)
+[2018.03.16-14.09.41:392][960]LogLinker: Warning: Can't find file '/Game/Models/WallStraight1/Wall_Straight1'
+[2018.03.16-14.09.41:392][960]LogLinker: Warning: Can't find file for asset '/Game/Models/WallStraight1/Wall_Straight1' while loading C:/Users/jay/Documents/GitHub/proefProeven/Content/Scenes/GameScene.umap.
+[2018.03.16-14.09.41:392][960]LoadErrors: Error: /Game/Scenes/GameScene : Can't find file for asset. /Game/Models/WallStraight1/Wall_Straight1
+[2018.03.16-14.09.41:394][960]LogLinker: Warning: Can't find file '/Game/Models/WallStraight1/Wall_Straight1'
+[2018.03.16-14.09.41:394][960]LogLinker: Warning: Can't find file for asset '/Game/Models/WallStraight1/Wall_Straight1' while loading C:/Users/jay/Documents/GitHub/proefProeven/Content/Scenes/GameScene.umap.
+[2018.03.16-14.09.41:395][960]LogLinker: Warning: Can't find file '/Game/Models/WallStraight1/Wall_Straight1'
+[2018.03.16-14.09.41:396][960]LogLinker: Warning: Can't find file for asset '/Game/Models/WallStraight1/Wall_Straight1' while loading NULL.
+[2018.03.16-14.09.41:396][960]LogLinker: Warning: Can't find file '/Game/Models/WallStraight1/Wall_Straight1'
+[2018.03.16-14.09.41:396][960]LogLinker: Warning: Can't find file for asset '/Game/Models/WallStraight1/Wall_Straight1' while loading NULL.
+[2018.03.16-14.09.41:405][960]LogLinker: Warning: Can't find file '/Game/Models/WallStraight1/Wall_Straight1'
+[2018.03.16-14.09.41:405][960]LoadErrors: Failed to load /Game/Models/WallStraight1/Wall_Straight1.Wall_Straight1 Referenced by Wall_Straight1_13
+[2018.03.16-14.09.41:405][960]LogLinker: Warning: Can't find file for asset '/Game/Models/WallStraight1/Wall_Straight1' while loading NULL.
+[2018.03.16-14.09.41:406][960]LogLinker: Warning: Can't find file '/Game/Models/WallStraight1/Wall_Straight1'
+[2018.03.16-14.09.41:406][960]LoadErrors: Failed to load /Game/Models/WallStraight1/Wall_Straight1.Wall_Straight1 Referenced by Wall_Straight2
+[2018.03.16-14.09.41:406][960]LogLinker: Warning: Can't find file for asset '/Game/Models/WallStraight1/Wall_Straight1' while loading NULL.
+[2018.03.16-14.09.41:406][960]LogLinker: Warning: Can't find file '/Game/Models/WallStraight1/Wall_Straight1'
+[2018.03.16-14.09.41:406][960]LoadErrors: Failed to load /Game/Models/WallStraight1/Wall_Straight1.Wall_Straight1 Referenced by Wall_Straight3
+[2018.03.16-14.09.41:406][960]LogLinker: Warning: Can't find file for asset '/Game/Models/WallStraight1/Wall_Straight1' while loading NULL.
+[2018.03.16-14.09.41:447][960]LogTexture: Display: Building textures: filler_case_OcclusionRoughnessMetallic (AutoDXT, 1024X1024)
+[2018.03.16-14.09.41:447][960]LogStaticMesh: Building static mesh Battery...
+[2018.03.16-14.09.41:513][960]LogTexture: Display: Building textures: filler_case_BaseColor (AutoDXT, 1024X1024)
+[2018.03.16-14.09.41:514][960]LogTexture: Display: Building textures: battery_case_lp_OcclusionRoughnessMetallic (AutoDXT, 1024X1024)
+[2018.03.16-14.09.41:514][960]LogStaticMesh: Built static mesh [0.07s] /Game/Models/Battery/Battery.Battery
+[2018.03.16-14.09.41:518][960]LogStaticMesh: Building static mesh BatteryCase_bottom...
+[2018.03.16-14.09.41:563][960]LogTexture: Display: Building textures: battery_case_lp_Normal (BC5, 1024X1024)
+[2018.03.16-14.09.41:563][960]LogStaticMesh: Built static mesh [0.05s] /Game/Models/BatteryCase/BatteryCase_bottom.BatteryCase_bottom
+[2018.03.16-14.09.41:565][960]LogStaticMesh: Building static mesh BatteryCase_lid...
+[2018.03.16-14.09.41:618][960]LogTexture: Display: Building textures: battery_case_lp_BaseColor (AutoDXT, 1024X1024)
+[2018.03.16-14.09.41:618][960]LogStaticMesh: Built static mesh [0.05s] /Game/Models/BatteryCase/BatteryCase_lid.BatteryCase_lid
+[2018.03.16-14.09.41:620][960]LogStaticMesh: Building static mesh CaseCabinet...
+[2018.03.16-14.09.41:699][960]LogTexture: Display: Building textures: filler_case_Normal (BC5, 1024X1024)
+[2018.03.16-14.09.41:699][960]LogStaticMesh: Built static mesh [0.08s] /Game/Models/CaseCabinet/CaseCabinet.CaseCabinet
+[2018.03.16-14.09.41:703][960]LogStaticMesh: Building static mesh fillercase...
+[2018.03.16-14.09.41:727][960]LogStaticMesh: Built static mesh [0.02s] /Game/Models/FillerCase/fillercase.fillercase
+[2018.03.16-14.09.41:743][960]LogStaticMesh: Building static mesh oxy_tank_01...
+[2018.03.16-14.09.41:776][960]LogStaticMesh: Built static mesh [0.03s] /Game/Models/OxygenTank/oxy_tank_01.oxy_tank_01
+[2018.03.16-14.09.41:778][960]LogStaticMesh: Building static mesh supply_room_test1...
+[2018.03.16-14.09.42:006][960]LogTexture: Display: Building textures: supplycratecabinet_lp_OcclusionRoughnessMetallic (AutoDXT, 1024X1024)
+[2018.03.16-14.09.42:006][960]LogTexture: Display: Building textures: supplycratecabinet_lp_BaseColor (AutoDXT, 1024X1024)
+[2018.03.16-14.09.42:006][960]LogTexture: Display: Building textures: supplycratecabinet_lp_Normal (BC5, 1024X1024)
+[2018.03.16-14.09.42:006][960]LogStaticMesh: Built static mesh [0.23s] /Game/Geometry/Meshes/LevelBlockout/supply_room_test1.supply_room_test1
+[2018.03.16-14.09.42:482][960]LogMaterial: Missing cached shader map for material lambert1, compiling. 
+[2018.03.16-14.09.42:873][960]LogMaterial: Missing cached shader map for material polySurface82Mat, compiling. 
+[2018.03.16-14.09.42:914][960]LogMaterial: Missing cached shader map for material lambert1, compiling. 
+[2018.03.16-14.09.42:954][960]LogAIModule: Creating AISystem for world GameScene
+[2018.03.16-14.09.42:993][960]Cmd: MAP LOAD FILE="C:/Users/jay/Documents/GitHub/proefProeven/Content/Scenes/GameScene.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.03.16-14.09.42:993][960]LightingResults: New page: Lighting Build
+[2018.03.16-14.09.42:994][960]LoadErrors: New page: Loading map: GameScene.umap
+[2018.03.16-14.09.42:995][960]MapCheck: New page: Map Check
+[2018.03.16-14.09.42:995][960]LightingResults: New page: Lighting Build
+[2018.03.16-14.09.43:020][960]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.03.16-14.09.43:116][960]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.03.16-14.09.43:224][960]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 107.879ms to complete.
+[2018.03.16-14.09.43:225][960]LogFileHelpers: Loading map 'GameScene' took 0.235
+[2018.03.16-14.09.53:702][558]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.03.16-14.09.53:913][559]Cmd: QUIT_EDITOR
+[2018.03.16-14.09.53:960][559]LogExit: Preparing to exit.
+[2018.03.16-14.09.54:702][559]LogExit: Editor shut down
+[2018.03.16-14.09.54:706][559]LogExit: Transaction tracking system shut down
+[2018.03.16-14.09.54:796][559]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2018.03.16-14.09.54:796][559]LogDirectoryWatcher: A directory notification for 'C:/Users/jay/Documents/GitHub/proefProeven/Content/' was aborted.
+[2018.03.16-14.09.54:796][559]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2018.03.16-14.09.54:796][559]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Media/MediaCompositing/Content/' was aborted.
+[2018.03.16-14.09.54:796][559]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2018.03.16-14.09.54:797][559]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2018.03.16-14.09.54:797][559]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2018.03.16-14.09.54:868][559]LogExit: Object subsystem successfully closed.
+[2018.03.16-14.09.54:885][559]LogD3D11RHI: Shutdown
+[2018.03.16-14.09.54:885][559]LogD3D11RHI: CleanupD3DDevice
+[2018.03.16-14.09.54:891][559]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.03.16-14.09.54:916][559]LogModuleManager: Shutting down and abandoning module NewLevelDialog (556)
+[2018.03.16-14.09.54:916][559]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (554)
+[2018.03.16-14.09.54:916][559]LogModuleManager: Shutting down and abandoning module MaterialEditor (552)
+[2018.03.16-14.09.54:916][559]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (550)
+[2018.03.16-14.09.54:916][559]LogModuleManager: Shutting down and abandoning module SceneOutliner (548)
+[2018.03.16-14.09.54:916][559]LogModuleManager: Shutting down and abandoning module AddContentDialog (546)
+[2018.03.16-14.09.54:917][559]LogDirectoryWatcher: A directory notification for 'D:/unreal/UE_4.18/FeaturePacks/' was aborted.
+[2018.03.16-14.09.54:918][559]LogModuleManager: Shutting down and abandoning module WidgetCarousel (545)
+[2018.03.16-14.09.54:918][559]LogModuleManager: Shutting down and abandoning module EditorWidgets (542)
+[2018.03.16-14.09.54:918][559]LogModuleManager: Shutting down and abandoning module CollectionManager (540)
+[2018.03.16-14.09.54:918][559]LogDirectoryWatcher: A directory notification for 'C:/Users/jay/Documents/GitHub/proefProeven/Content/Collections/' was aborted.
+[2018.03.16-14.09.54:918][559]LogDirectoryWatcher: A directory notification for 'C:/Users/jay/Documents/GitHub/proefProeven/Content/Developers/jay/Collections/' was aborted.
+[2018.03.16-14.09.54:918][559]LogDirectoryWatcher: A directory notification for 'C:/Users/jay/Documents/GitHub/proefProeven/Saved/Collections/' was aborted.
+[2018.03.16-14.09.54:918][559]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (538)
+[2018.03.16-14.09.54:919][559]LogModuleManager: Shutting down and abandoning module StatsViewer (536)
+[2018.03.16-14.09.54:919][559]LogModuleManager: Shutting down and abandoning module FoliageEdit (534)
+[2018.03.16-14.09.54:919][559]LogModuleManager: Shutting down and abandoning module LandscapeEditor (532)
+[2018.03.16-14.09.54:919][559]LogModuleManager: Shutting down and abandoning module MeshPaintMode (530)
+[2018.03.16-14.09.54:919][559]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (528)
+[2018.03.16-14.09.54:919][559]LogModuleManager: Shutting down and abandoning module ActorPickerMode (526)
+[2018.03.16-14.09.54:919][559]LogModuleManager: Shutting down and abandoning module GeometryMode (524)
+[2018.03.16-14.09.54:919][559]LogModuleManager: Shutting down and abandoning module TextureAlignMode (522)
+[2018.03.16-14.09.54:919][559]LogModuleManager: Shutting down and abandoning module BspMode (520)
+[2018.03.16-14.09.54:919][559]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (518)
+[2018.03.16-14.09.54:919][559]LogModuleManager: Shutting down and abandoning module HardwareSurvey (516)
+[2018.03.16-14.09.54:919][559]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (514)
+[2018.03.16-14.09.54:919][559]LogModuleManager: Shutting down and abandoning module AutomationWorker (512)
+[2018.03.16-14.09.54:919][559]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (510)
+[2018.03.16-14.09.54:919][559]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (508)
+[2018.03.16-14.09.54:919][559]LogModuleManager: Shutting down and abandoning module PlacementMode (507)
+[2018.03.16-14.09.54:919][559]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (504)
+[2018.03.16-14.09.54:919][559]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (502)
+[2018.03.16-14.09.54:919][559]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (500)
+[2018.03.16-14.09.54:919][559]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (498)
+[2018.03.16-14.09.54:919][559]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (496)
+[2018.03.16-14.09.54:919][559]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (494)
+[2018.03.16-14.09.54:919][559]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (492)
+[2018.03.16-14.09.54:919][559]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (490)
+[2018.03.16-14.09.54:919][559]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (488)
+[2018.03.16-14.09.54:919][559]LogModuleManager: Shutting down and abandoning module CharacterAI (486)
+[2018.03.16-14.09.54:919][559]LogModuleManager: Shutting down and abandoning module AudioCapture (484)
+[2018.03.16-14.09.54:919][559]LogModuleManager: Shutting down and abandoning module SequenceRecorder (483)
+[2018.03.16-14.09.54:919][559]LogModuleManager: Shutting down and abandoning module SmartSnapping (480)
+[2018.03.16-14.09.54:920][559]LogModuleManager: Shutting down and abandoning module SessionServices (478)
+[2018.03.16-14.09.54:920][559]LogModuleManager: Shutting down and abandoning module ViewportSnapping (476)
+[2018.03.16-14.09.54:920][559]LogModuleManager: Shutting down and abandoning module ViewportInteraction (474)
+[2018.03.16-14.09.54:920][559]LogModuleManager: Shutting down and abandoning module ClothPainter (472)
+[2018.03.16-14.09.54:920][559]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (471)
+[2018.03.16-14.09.54:920][559]LogModuleManager: Shutting down and abandoning module LogVisualizer (468)
+[2018.03.16-14.09.54:920][559]LogModuleManager: Shutting down and abandoning module IntroTutorials (466)
+[2018.03.16-14.09.54:920][559]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (465)
+[2018.03.16-14.09.54:920][559]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (462)
+[2018.03.16-14.09.54:920][559]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (460)
+[2018.03.16-14.09.54:920][559]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (458)
+[2018.03.16-14.09.54:920][559]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (457)
+[2018.03.16-14.09.55:137][559]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (454)
+[2018.03.16-14.09.55:137][559]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (452)
+[2018.03.16-14.09.55:137][559]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (450)
+[2018.03.16-14.09.55:137][559]LogModuleManager: Shutting down and abandoning module InputBindingEditor (448)
+[2018.03.16-14.09.55:137][559]LogModuleManager: Shutting down and abandoning module MergeActors (446)
+[2018.03.16-14.09.55:137][559]LogModuleManager: Shutting down and abandoning module SizeMap (444)
+[2018.03.16-14.09.55:137][559]LogModuleManager: Shutting down and abandoning module TreeMap (442)
+[2018.03.16-14.09.55:137][559]LogModuleManager: Shutting down and abandoning module ReferenceViewer (440)
+[2018.03.16-14.09.55:137][559]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (438)
+[2018.03.16-14.09.55:137][559]LogModuleManager: Shutting down and abandoning module LocalizationService (437)
+[2018.03.16-14.09.55:137][559]LogModuleManager: Shutting down and abandoning module HardwareTargeting (434)
+[2018.03.16-14.09.55:137][559]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (432)
+[2018.03.16-14.09.55:137][559]LogModuleManager: Shutting down and abandoning module UndoHistory (430)
+[2018.03.16-14.09.55:137][559]LogModuleManager: Shutting down and abandoning module XmlParser (428)
+[2018.03.16-14.09.55:137][559]LogModuleManager: Shutting down and abandoning module Blutility (426)
+[2018.03.16-14.09.55:138][559]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (424)
+[2018.03.16-14.09.55:138][559]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (423)
+[2018.03.16-14.09.55:138][559]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (420)
+[2018.03.16-14.09.55:138][559]LogModuleManager: Shutting down and abandoning module SettingsEditor (418)
+[2018.03.16-14.09.55:138][559]LogModuleManager: Shutting down and abandoning module ProjectLauncher (416)
+[2018.03.16-14.09.55:138][559]LogModuleManager: Shutting down and abandoning module SessionFrontend (414)
+[2018.03.16-14.09.55:138][559]LogModuleManager: Shutting down and abandoning module ProfilerClient (412)
+[2018.03.16-14.09.55:138][559]LogModuleManager: Shutting down and abandoning module DeviceManager (410)
+[2018.03.16-14.09.55:138][559]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (409)
+[2018.03.16-14.09.55:193][559]LogModuleManager: Shutting down and abandoning module AutomationController (406)
+[2018.03.16-14.09.55:193][559]LogModuleManager: Shutting down and abandoning module AutomationWindow (404)
+[2018.03.16-14.09.55:193][559]LogModuleManager: Shutting down and abandoning module Layers (402)
+[2018.03.16-14.09.55:193][559]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (400)
+[2018.03.16-14.09.55:193][559]LogModuleManager: Shutting down and abandoning module DetailCustomizations (398)
+[2018.03.16-14.09.55:193][559]LogModuleManager: Shutting down and abandoning module PackagesDialog (396)
+[2018.03.16-14.09.55:193][559]LogModuleManager: Shutting down and abandoning module Persona (394)
+[2018.03.16-14.09.55:194][559]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (393)
+[2018.03.16-14.09.55:194][559]LogModuleManager: Shutting down and abandoning module AnimGraph (391)
+[2018.03.16-14.09.55:194][559]LogModuleManager: Shutting down and abandoning module Kismet (388)
+[2018.03.16-14.09.55:194][559]LogModuleManager: Shutting down and abandoning module ClassViewer (386)
+[2018.03.16-14.09.55:194][559]LogModuleManager: Shutting down and abandoning module Toolbox (384)
+[2018.03.16-14.09.55:194][559]LogModuleManager: Shutting down and abandoning module ModuleUI (382)
+[2018.03.16-14.09.55:194][559]LogModuleManager: Shutting down and abandoning module MovieSceneTools (380)
+[2018.03.16-14.09.55:195][559]LogModuleManager: Shutting down and abandoning module OutputLog (378)
+[2018.03.16-14.09.55:195][559]LogModuleManager: Shutting down and abandoning module GammaUI (376)
+[2018.03.16-14.09.55:195][559]LogModuleManager: Shutting down and abandoning module Documentation (374)
+[2018.03.16-14.09.55:195][559]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (372)
+[2018.03.16-14.09.55:195][559]LogModuleManager: Shutting down and abandoning module MovieScene (370)
+[2018.03.16-14.09.55:195][559]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (368)
+[2018.03.16-14.09.55:195][559]LogModuleManager: Shutting down and abandoning module LauncherPlatform (366)
+[2018.03.16-14.09.55:195][559]LogModuleManager: Shutting down and abandoning module AnalyticsET (364)
+[2018.03.16-14.09.55:195][559]LogModuleManager: Shutting down and abandoning module PortalServices (362)
+[2018.03.16-14.09.55:195][559]LogModuleManager: Shutting down and abandoning module PortalRpc (360)
+[2018.03.16-14.09.55:195][559]LogModuleManager: Shutting down and abandoning module MessagingRpc (358)
+[2018.03.16-14.09.55:195][559]LogModuleManager: Shutting down and abandoning module AIModule (356)
+[2018.03.16-14.09.55:195][559]LogModuleManager: Shutting down and abandoning module GameplayDebugger (355)
+[2018.03.16-14.09.55:195][559]LogModuleManager: Shutting down and abandoning module AITestSuite (353)
+[2018.03.16-14.09.55:195][559]LogModuleManager: Shutting down and abandoning module DesktopPlatform (350)
+[2018.03.16-14.09.55:195][559]LogModuleManager: Shutting down and abandoning module ProfilerService (348)
+[2018.03.16-14.09.55:342][559]LogModuleManager: Shutting down and abandoning module TaskGraph (346)
+[2018.03.16-14.09.55:342][559]LogModuleManager: Shutting down and abandoning module SteamVRController (344)
+[2018.03.16-14.09.55:342][559]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (342)
+[2018.03.16-14.09.55:343][559]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (340)
+[2018.03.16-14.09.55:343][559]LogModuleManager: Shutting down and abandoning module OculusInput (338)
+[2018.03.16-14.09.55:343][559]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (336)
+[2018.03.16-14.09.55:343][559]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (334)
+[2018.03.16-14.09.55:343][559]LogModuleManager: Shutting down and abandoning module CableComponent (332)
+[2018.03.16-14.09.55:343][559]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (330)
+[2018.03.16-14.09.55:343][559]LogModuleManager: Shutting down and abandoning module AndroidPermission (328)
+[2018.03.16-14.09.55:343][559]LogModuleManager: Shutting down and abandoning module ActorSequence (324)
+[2018.03.16-14.09.55:343][559]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (322)
+[2018.03.16-14.09.55:343][559]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (320)
+[2018.03.16-14.09.55:343][559]LogModuleManager: Shutting down and abandoning module MediaCompositing (318)
+[2018.03.16-14.09.55:343][559]LogModuleManager: Shutting down and abandoning module HTML5Networking (316)
+[2018.03.16-14.09.55:343][559]LogModuleManager: Shutting down and abandoning module AlembicImporter (314)
+[2018.03.16-14.09.55:343][559]LogModuleManager: Shutting down and abandoning module AlembicLibrary (313)
+[2018.03.16-14.09.55:343][559]LogModuleManager: Shutting down and abandoning module GeometryCache (312)
+[2018.03.16-14.09.55:343][559]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (311)
+[2018.03.16-14.09.55:343][559]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (306)
+[2018.03.16-14.09.55:343][559]LogModuleManager: Shutting down and abandoning module PluginBrowser (304)
+[2018.03.16-14.09.55:343][559]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (302)
+[2018.03.16-14.09.55:343][559]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (300)
+[2018.03.16-14.09.55:343][559]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (298)
+[2018.03.16-14.09.55:343][559]LogModuleManager: Shutting down and abandoning module UObjectPlugin (296)
+[2018.03.16-14.09.55:343][559]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (294)
+[2018.03.16-14.09.55:343][559]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (292)
+[2018.03.16-14.09.55:343][559]LogModuleManager: Shutting down and abandoning module GitSourceControl (290)
+[2018.03.16-14.09.55:343][559]LogModuleManager: Shutting down and abandoning module SourceControl (289)
+[2018.03.16-14.09.55:343][559]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (286)
+[2018.03.16-14.09.55:343][559]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (284)
+[2018.03.16-14.09.55:343][559]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (282)
+[2018.03.16-14.09.55:343][559]LogModuleManager: Shutting down and abandoning module Paper2DEditor (280)
+[2018.03.16-14.09.55:343][559]LogModuleManager: Shutting down and abandoning module MeshPaint (279)
+[2018.03.16-14.09.55:343][559]LogModuleManager: Shutting down and abandoning module LevelEditor (277)
+[2018.03.16-14.09.55:344][559]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (276)
+[2018.03.16-14.09.55:344][559]LogModuleManager: Shutting down and abandoning module MainFrame (274)
+[2018.03.16-14.09.55:344][559]LogModuleManager: Shutting down and abandoning module HotReload (273)
+[2018.03.16-14.09.55:345][559]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (268)
+[2018.03.16-14.09.55:345][559]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (266)
+[2018.03.16-14.09.55:345][559]LogModuleManager: Shutting down and abandoning module PhysXVehicles (264)
+[2018.03.16-14.09.55:345][559]LogModuleManager: Shutting down and abandoning module OculusEditor (262)
+[2018.03.16-14.09.55:345][559]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (260)
+[2018.03.16-14.09.55:345][559]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (258)
+[2018.03.16-14.09.55:345][559]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (256)
+[2018.03.16-14.09.55:345][559]LogModuleManager: Shutting down and abandoning module UdpMessaging (254)
+[2018.03.16-14.09.55:446][559]LogModuleManager: Shutting down and abandoning module TcpMessaging (252)
+[2018.03.16-14.09.55:547][559]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (250)
+[2018.03.16-14.09.55:547][559]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (248)
+[2018.03.16-14.09.55:547][559]LogModuleManager: Shutting down and abandoning module FacialAnimation (246)
+[2018.03.16-14.09.55:547][559]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (244)
+[2018.03.16-14.09.55:547][559]LogModuleManager: Shutting down and abandoning module GraphEditor (243)
+[2018.03.16-14.09.55:547][559]LogModuleManager: Shutting down and abandoning module ContentBrowser (241)
+[2018.03.16-14.09.55:548][559]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2018.03.16-14.09.55:548][559]LogModuleManager: Shutting down and abandoning module Paper2D (236)
+[2018.03.16-14.09.55:548][559]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (234)
+[2018.03.16-14.09.55:548][559]LogModuleManager: Shutting down and abandoning module WmfMedia (232)
+[2018.03.16-14.09.55:550][559]LogModuleManager: Shutting down and abandoning module ImgMedia (230)
+[2018.03.16-14.09.55:550][559]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2018.03.16-14.09.55:550][559]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2018.03.16-14.09.55:550][559]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2018.03.16-14.09.55:550][559]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2018.03.16-14.09.55:550][559]LogModuleManager: Shutting down and abandoning module Media (221)
+[2018.03.16-14.09.55:556][559]LogModuleManager: Shutting down and abandoning module Overlay (218)
+[2018.03.16-14.09.55:556][559]LogModuleManager: Shutting down and abandoning module OverlayEditor (217)
+[2018.03.16-14.09.55:556][559]LogModuleManager: Shutting down and abandoning module VREditor (214)
+[2018.03.16-14.09.55:557][559]LogModuleManager: Shutting down and abandoning module StringTableEditor (212)
+[2018.03.16-14.09.55:557][559]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (210)
+[2018.03.16-14.09.55:557][559]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (208)
+[2018.03.16-14.09.55:557][559]LogModuleManager: Shutting down and abandoning module FunctionalTesting (206)
+[2018.03.16-14.09.55:557][559]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (204)
+[2018.03.16-14.09.55:557][559]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (203)
+[2018.03.16-14.09.55:557][559]LogModuleManager: Shutting down and abandoning module UMG (200)
+[2018.03.16-14.09.55:557][559]LogModuleManager: Shutting down and abandoning module UMGEditor (199)
+[2018.03.16-14.09.55:557][559]LogModuleManager: Shutting down and abandoning module Sequencer (198)
+[2018.03.16-14.09.55:557][559]LogModuleManager: Shutting down and abandoning module MessageLog (195)
+[2018.03.16-14.09.55:557][559]LogModuleManager: Shutting down and abandoning module SlateReflector (190)
+[2018.03.16-14.09.55:557][559]LogModuleManager: Shutting down and abandoning module Slate (188)
+[2018.03.16-14.09.55:557][559]LogModuleManager: Shutting down and abandoning module EditorStyle (186)
+[2018.03.16-14.09.55:560][559]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2018.03.16-14.09.55:560][559]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2018.03.16-14.09.55:560][559]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2018.03.16-14.09.55:560][559]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2018.03.16-14.09.55:560][559]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2018.03.16-14.09.55:560][559]LogModuleManager: Shutting down and abandoning module Core (172)
+[2018.03.16-14.09.55:560][559]LogModuleManager: Shutting down and abandoning module LevelSequence (168)
+[2018.03.16-14.09.55:560][559]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (166)
+[2018.03.16-14.09.55:560][559]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2018.03.16-14.09.55:560][559]LogModuleManager: Shutting down and abandoning module MeshUtilities (162)
+[2018.03.16-14.09.55:560][559]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (161)
+[2018.03.16-14.09.55:561][559]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (160)
+[2018.03.16-14.09.55:561][559]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (159)
+[2018.03.16-14.09.55:561][559]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (157)
+[2018.03.16-14.09.55:561][559]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (155)
+[2018.03.16-14.09.55:561][559]LogModuleManager: Shutting down and abandoning module MaterialBaking (151)
+[2018.03.16-14.09.55:561][559]LogModuleManager: Shutting down and abandoning module DerivedDataCache (148)
+[2018.03.16-14.09.55:615][559]LogDerivedDataCache: Shutdown
+[2018.03.16-14.09.55:615][559]LogModuleManager: Shutting down and abandoning module TargetPlatform (146)
+[2018.03.16-14.09.55:615][559]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (145)
+[2018.03.16-14.09.55:615][559]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (143)
+[2018.03.16-14.09.55:615][559]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (141)
+[2018.03.16-14.09.55:615][559]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (139)
+[2018.03.16-14.09.55:615][559]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (137)
+[2018.03.16-14.09.55:615][559]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (135)
+[2018.03.16-14.09.55:615][559]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (133)
+[2018.03.16-14.09.55:615][559]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (131)
+[2018.03.16-14.09.55:615][559]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (129)
+[2018.03.16-14.09.55:615][559]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (127)
+[2018.03.16-14.09.55:615][559]LogModuleManager: Shutting down and abandoning module ImageWrapper (126)
+[2018.03.16-14.09.55:615][559]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (123)
+[2018.03.16-14.09.55:615][559]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (121)
+[2018.03.16-14.09.55:615][559]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (119)
+[2018.03.16-14.09.55:615][559]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (117)
+[2018.03.16-14.09.55:615][559]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (115)
+[2018.03.16-14.09.55:615][559]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (113)
+[2018.03.16-14.09.55:615][559]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (111)
+[2018.03.16-14.09.55:616][559]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (109)
+[2018.03.16-14.09.55:616][559]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (107)
+[2018.03.16-14.09.55:616][559]LogModuleManager: Shutting down and abandoning module Messaging (105)
+[2018.03.16-14.09.55:616][559]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (103)
+[2018.03.16-14.09.55:616][559]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (101)
+[2018.03.16-14.09.55:616][559]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (99)
+[2018.03.16-14.09.55:616][559]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (97)
+[2018.03.16-14.09.55:616][559]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (95)
+[2018.03.16-14.09.55:616][559]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (93)
+[2018.03.16-14.09.55:616][559]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (91)
+[2018.03.16-14.09.55:616][559]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (89)
+[2018.03.16-14.09.55:616][559]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (87)
+[2018.03.16-14.09.55:616][559]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (85)
+[2018.03.16-14.09.55:616][559]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (83)
+[2018.03.16-14.09.55:616][559]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (81)
+[2018.03.16-14.09.55:616][559]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (79)
+[2018.03.16-14.09.55:616][559]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (77)
+[2018.03.16-14.09.55:616][559]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (75)
+[2018.03.16-14.09.55:616][559]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (73)
+[2018.03.16-14.09.55:616][559]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (71)
+[2018.03.16-14.09.55:616][559]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (69)
+[2018.03.16-14.09.55:616][559]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (67)
+[2018.03.16-14.09.55:616][559]LogModuleManager: Shutting down and abandoning module InputCore (64)
+[2018.03.16-14.09.55:616][559]LogModuleManager: Shutting down and abandoning module Settings (62)
+[2018.03.16-14.09.55:616][559]LogModuleManager: Shutting down and abandoning module PhysXCooking (60)
+[2018.03.16-14.09.55:616][559]LogModuleManager: Shutting down and abandoning module SteamVR (58)
+[2018.03.16-14.09.55:616][559]LogModuleManager: Shutting down and abandoning module OculusHMD (56)
+[2018.03.16-14.09.55:616][559]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (54)
+[2018.03.16-14.09.55:616][559]LogModuleManager: Shutting down and abandoning module AppleARKit (52)
+[2018.03.16-14.09.55:617][559]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2018.03.16-14.09.55:617][559]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2018.03.16-14.09.55:617][559]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2018.03.16-14.09.55:617][559]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2018.03.16-14.09.55:617][559]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2018.03.16-14.09.55:617][559]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.03.16-14.09.55:617][559]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA6CBD25B-4C9E-1E8D-770F-6183B664FA46%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.18.3-3832480%2B%2B%2BUE4%2BRelease-4.18&UserID=c9534e6b46f949401f546194535aad79%7C54b41279a45f48f89b53ad82e7f7c802%7C81450a58-d076-4f48-98ba-d561aae9a941&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.03.16-14.09.55:633][559]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2018.03.16-14.09.55:635][559]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.03.16-14.09.55:635][559]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.03.16-14.09.55:635][559]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.03.16-14.09.55:635][559]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.03.16-14.09.55:635][559]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.03.16-14.09.55:635][559]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.03.16-14.09.55:635][559]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.03.16-14.09.55:636][559]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.03.16-14.09.55:636][559]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.03.16-14.09.55:636][559]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.03.16-14.09.55:636][559]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.03.16-14.09.55:636][559]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.03.16-14.09.55:636][559]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.03.16-14.09.55:636][559]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.03.16-14.09.55:636][559]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.03.16-14.09.55:636][559]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.03.16-14.09.55:636][559]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.03.16-14.09.55:636][559]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.03.16-14.09.55:639][559]LogExit: Exiting.
+[2018.03.16-14.09.55:655][559]Log file closed, 03/16/18 15:09:55
