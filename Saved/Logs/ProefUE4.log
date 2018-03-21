@@ -1,4 +1,8 @@
+<<<<<<< HEAD
+﻿Log file open, 03/20/18 14:27:42
+=======
 ﻿Log file open, 03/20/18 12:27:56
+>>>>>>> a0aaddee2bc8c1f1d3d3db24b3ba0a993971d265
 LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
 LogWindows: File 'aqProf.dll' does not exist
 LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
@@ -7,12 +11,20 @@ LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
 LogWindows: File 'VtuneApi32e.dll' does not exist
 LogInit: Display: Running engine for game: ProefUE4
 LogPlatformFile: Not using cached read wrapper
+<<<<<<< HEAD
+LogInit: Display: RandInit(1145682778) SRandInit(1145682778).
+=======
 LogInit: Display: RandInit(1998714708) SRandInit(1998714708).
+>>>>>>> a0aaddee2bc8c1f1d3d3db24b3ba0a993971d265
 LogInit: Read version file with build ID '3709383'
 LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
 LogInit: Registered custom module enumerator with build ID '3709383'
 LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+<<<<<<< HEAD
+LogStats: Stats thread started at 0.174158
+=======
 LogStats: Stats thread started at 0.205533
+>>>>>>> a0aaddee2bc8c1f1d3d3db24b3ba0a993971d265
 LogD3D11RHI: Aftermath initialized
 LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
 LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
@@ -185,6 +197,183 @@ LogInit: Base directory: C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win
 LogInit: Installed Engine Build: 1
 LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
 LogInit: Object subsystem initialized
+<<<<<<< HEAD
+[2018.03.20-13.27.43:869][  0]LogInit: Selected Device Profile: [Windows]
+[2018.03.20-13.27.43:869][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.03.20-13.27.43:887][  0]LogInit: Computer: JAY-PC
+[2018.03.20-13.27.43:887][  0]LogInit: User: jay
+[2018.03.20-13.27.43:887][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.03.20-13.27.43:888][  0]LogInit: High frequency timer resolution =2.435777 MHz
+[2018.03.20-13.27.43:888][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2018.03.20-13.27.43:888][  0]LogMemory: Platform Memory Stats for Windows
+[2018.03.20-13.27.43:888][  0]LogMemory: Process Physical Memory: 274.37 MB used, 274.37 MB peak
+[2018.03.20-13.27.43:888][  0]LogMemory: Process Virtual Memory: 269.86 MB used, 269.86 MB peak
+[2018.03.20-13.27.43:888][  0]LogMemory: Physical Memory: 7947.77 MB used,  24747.29 MB free, 32695.06 MB total
+[2018.03.20-13.27.43:888][  0]LogMemory: Virtual Memory: 683.13 MB used,  24747.29 MB free, 134217728.00 MB total
+[2018.03.20-13.27.43:992][  0]LogInit: Using OS detected language (nl-NL).
+[2018.03.20-13.27.43:992][  0]LogInit: Using OS detected locale (nl-NL).
+[2018.03.20-13.27.43:995][  0]LogTextLocalizationManager: No localization for 'nl-NL' exists, so 'en' will be used for the language.
+[2018.03.20-13.27.43:995][  0]LogTextLocalizationManager: No localization for 'nl-NL' exists, so 'en' will be used for the locale.
+[2018.03.20-13.27.44:439][  0]LogInit: Setting process to per monitor DPI aware
+[2018.03.20-13.27.44:692][  0]LogD3D11RHI: D3D11 adapters:
+[2018.03.20-13.27.44:713][  0]LogD3D11RHI:    0. 'AMD Radeon(TM) HD8970M' (Feature Level 11_0)
+[2018.03.20-13.27.44:713][  0]LogD3D11RHI:       4076/0/16347 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x1002
+[2018.03.20-13.27.44:715][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.03.20-13.27.44:715][  0]LogD3D11RHI:       0/0/16347 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.03.20-13.27.44:715][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.03.20-13.27.44:726][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.03.20-13.27.44:727][  0]LogD3D11RHI:     GPU DeviceId: 0x6801 (for the marketing name, search the web for "GPU Device Id")
+[2018.03.20-13.27.44:727][  0]LogWindows: EnumDisplayDevices:
+[2018.03.20-13.27.44:727][  0]LogWindows:    0. 'AMD Radeon(TM) HD8970M' (P:1 D:1)
+[2018.03.20-13.27.44:727][  0]LogWindows:    1. 'AMD Radeon(TM) HD8970M' (P:0 D:0)
+[2018.03.20-13.27.44:727][  0]LogWindows:    2. 'AMD Radeon(TM) HD8970M' (P:0 D:0)
+[2018.03.20-13.27.44:727][  0]LogWindows:    3. 'AMD Radeon(TM) HD8970M' (P:0 D:0)
+[2018.03.20-13.27.44:727][  0]LogWindows:    4. 'AMD Radeon(TM) HD8970M' (P:0 D:0)
+[2018.03.20-13.27.44:727][  0]LogWindows:    5. 'AMD Radeon(TM) HD8970M' (P:0 D:0)
+[2018.03.20-13.27.44:727][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.03.20-13.27.44:727][  0]LogD3D11RHI:     Adapter Name: AMD Radeon(TM) HD8970M
+[2018.03.20-13.27.44:727][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.03.20-13.27.44:727][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.03.20-13.27.44:727][  0]LogRHI: Texture pool is 2853 MB (70% of 4076 MB)
+[2018.03.20-13.27.44:748][  0]LogD3D11RHI: Async texture creation enabled
+[2018.03.20-13.27.44:762][  0]LogD3D11RHI: GPU Timing Frequency: 27.000000 (Debug: 2 1)
+[2018.03.20-13.27.44:764][  0]LogShaderCompilers: Guid format shader working directory is 1 characters bigger than the processId version (C:/Users/jay/Documents/GitHub/proefProeven/Intermediate/Shaders/WorkingDirectory/19320/).
+[2018.03.20-13.27.44:764][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/jay/AppData/Local/Temp/UnrealShaderWorkingDir/B84D432A4A18CF11FF6BC7820379A4BE/'.
+[2018.03.20-13.27.44:764][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.03.20-13.27.45:778][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.03.20-13.27.45:824][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.03.20-13.27.45:869][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.03.20-13.27.45:909][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.03.20-13.27.45:952][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.03.20-13.27.45:992][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.03.20-13.27.46:032][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.03.20-13.27.46:073][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.03.20-13.27.46:106][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.03.20-13.27.46:148][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.03.20-13.27.46:189][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.03.20-13.27.46:231][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.03.20-13.27.46:269][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.03.20-13.27.46:320][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.03.20-13.27.46:401][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.03.20-13.27.46:402][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.03.20-13.27.46:440][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.03.20-13.27.46:468][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.03.20-13.27.46:547][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.03.20-13.27.46:569][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.03.20-13.27.46:609][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.03.20-13.27.46:647][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.03.20-13.27.46:685][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.03.20-13.27.46:730][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.03.20-13.27.46:730][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.03.20-13.27.47:111][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.03.20-13.27.47:180][  0]LogDerivedDataCache: Loaded boot cache 0.07s 78MB C:/Users/jay/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.03.20-13.27.47:180][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/jay/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.03.20-13.27.47:180][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/jay/Documents/GitHub/proefProeven/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.03.20-13.27.47:180][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.03.20-13.27.47:180][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/jay/Documents/GitHub/proefProeven/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.03.20-13.27.47:180][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.03.20-13.27.47:200][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.03.20-13.27.47:212][  0]LogDerivedDataCache: Using Local data cache path C:/Users/jay/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.03.20-13.27.47:223][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.03.20-13.27.47:223][  0]LogSlate: Using Freetype 2.6.0
+[2018.03.20-13.27.47:223][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.03.20-13.27.47:223][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.03.20-13.27.47:572][  0]LogInit: Selected Device Profile: [Windows]
+[2018.03.20-13.27.47:868][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.03.20-13.27.47:900][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.03.20-13.27.47:900][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.03.20-13.27.47:900][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.03.20-13.27.47:900][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.03.20-13.27.47:900][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.03.20-13.27.47:924][  0]LogNetVersion: ProefUE4 , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 508105638)
+[2018.03.20-13.27.48:071][  0]LogAssetRegistry: FAssetRegistry took 0.0264 seconds to start up
+[2018.03.20-13.27.48:540][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 1 prioritized culture(s) in 0.050682 seconds
+[2018.03.20-13.27.48:545][  0]LogUObjectArray: 35870 objects as part of root set at end of initial load.
+[2018.03.20-13.27.48:545][  0]LogUObjectAllocator: 7363696 out of 0 bytes used by permanent object pool.
+[2018.03.20-13.27.48:545][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.03.20-13.27.48:587][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.03.20-13.27.50:948][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.03.20-13.27.50:982][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.03.20-13.27.51:543][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.03.20-13.27.51:891][  0]SourceControl: Source control is disabled
+[2018.03.20-13.27.51:891][  0]SourceControl: Source control is disabled
+[2018.03.20-13.27.51:930][  0]SourceControl: Source control is disabled
+[2018.03.20-13.27.51:971][  0]SourceControl: Source control is disabled
+[2018.03.20-13.27.52:643][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.03.20-13.27.52:879][  0]LogOcInput: OculusInput pre-init called
+[2018.03.20-13.27.53:135][  0]LogEngine: Initializing Engine...
+[2018.03.20-13.27.53:138][  0]LogHMD: Failed to initialize OpenVR with code 100
+[2018.03.20-13.27.53:345][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.03.20-13.27.53:345][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.03.20-13.27.53:438][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.03.20-13.27.53:445][  0]LogInit: XAudio2 using 'Luidsprekers / koptelefoons (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.20-13.27.53:477][  0]LogInit: FAudioDevice initialized.
+[2018.03.20-13.27.53:558][  0]LogDerivedDataCache: Saved boot cache 0.08s 78MB C:/Users/jay/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.03.20-13.27.53:571][  0]LogInit: Texture streaming: Enabled
+[2018.03.20-13.27.53:645][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.03.20-13.27.53:752][  0]LogInit: Transaction tracking system initialized
+[2018.03.20-13.27.53:999][  0]BlueprintLog: New page: Editor Load
+[2018.03.20-13.27.54:718][  0]LocalizationService: Localization service is disabled
+[2018.03.20-13.27.55:313][  0]LogConsoleResponse: Display: 
+[2018.03.20-13.27.55:491][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.03.20-13.27.55:491][  0]LogCook: Display: Mobile HDR setting 1
+[2018.03.20-13.27.55:491][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.03.20-13.27.56:055][  0]LogFileCache: Scanning file cache for directory 'C:/Users/jay/Documents/GitHub/proefProeven/Content/' took 0.02s
+[2018.03.20-13.27.56:442][  0]SourceControl: Source control is disabled
+[2018.03.20-13.27.56:442][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.03.20-13.27.56:443][  0]LightingResults: New page: Lighting Build
+[2018.03.20-13.27.56:473][  0]MapCheck: New page: Map Check
+[2018.03.20-13.27.56:473][  0]LightingResults: New page: Lighting Build
+[2018.03.20-13.27.56:690][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2018.03.20-13.27.56:696][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.03.20-13.27.56:706][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.03.20-13.27.56:749][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 42.853ms to complete.
+[2018.03.20-13.27.56:749][  0]LogFileHelpers: Loading map 'Template_Default' took 0.307
+[2018.03.20-13.27.57:083][  0]LogCollectionManager: Loaded 0 collections in 0.002278 seconds
+[2018.03.20-13.27.57:161][  0]LogFileCache: Scanning file cache for directory 'C:/Users/jay/Documents/GitHub/proefProeven/Saved/Collections/' took 0.01s
+[2018.03.20-13.27.57:161][  0]LogFileCache: Scanning file cache for directory 'C:/Users/jay/Documents/GitHub/proefProeven/Content/Developers/jay/Collections/' took 0.01s
+[2018.03.20-13.27.57:161][  0]LogFileCache: Scanning file cache for directory 'C:/Users/jay/Documents/GitHub/proefProeven/Content/Collections/' took 0.01s
+[2018.03.20-13.27.57:161][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.03.20-13.27.57:172][  0]LogContentBrowser: Native class hierarchy populated in 0.0105 seconds. Added 2363 classes and 519 folders.
+[2018.03.20-13.27.57:221][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.03.20-13.27.58:267][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.03.20-13.27.58:362][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.03.20-13.27.58:404][  0]LogSlate: Took 0.000169 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.03.20-13.27.58:406][  0]LogSlate: Took 0.000174 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.03.20-13.27.58:430][  0]LogSlate: Took 0.018207 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.03.20-13.27.58:756][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2018.03.20-13.27.59:112][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.03.20-13.27.59:112][  0]LogLoad: (Engine Initialization) Total time: 17.40 seconds
+[2018.03.20-13.27.59:112][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.03.20-13.27.59:112][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2018.03.20-13.27.59:112][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2018.03.20-13.27.59:177][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.03.20-13.27.59:205][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.03.20-13.27.59:302][  0]LogSlate: Took 0.012000 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.03.20-13.27.59:323][  1]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/jay/Documents/GitHub/proefProeven/Content/' took 0.13s
+[2018.03.20-13.27.59:339][  1]LogAssetRegistry: Asset discovery search completed in 11.2901 seconds
+[2018.03.20-13.27.59:341][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.03.20-13.27.59:341][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000045 seconds (updated 0 objects)
+[2018.03.20-13.28.14:343][899]LogSlate: Took 0.000152 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.03.20-13.28.14:375][899]LogBlueprint: Warning: [Compiler FirstPersonCharacter] Input Axis Event references unknown Axis 'LookUpRate' for  InputAxis LookUpRate
+[2018.03.20-13.28.14:376][899]LogBlueprint: Warning: [Compiler FirstPersonCharacter] Input Axis Event references unknown Axis 'TurnRate' for  InputAxis TurnRate
+[2018.03.20-13.28.14:376][899]LogBlueprint: Warning: [Compiler FirstPersonCharacter] Input Axis Event references unknown Axis 'MoveRight' for  InputAxis MoveRight
+[2018.03.20-13.28.14:376][899]LogBlueprint: Warning: [Compiler FirstPersonCharacter] Input Axis Event references unknown Axis 'MoveForward' for  InputAxis MoveForward
+[2018.03.20-13.28.14:376][899]LogBlueprint: Warning: [Compiler FirstPersonCharacter] Input Axis Event references unknown Axis 'LookUp' for  InputAxis LookUp
+[2018.03.20-13.28.14:376][899]LogBlueprint: Warning: [Compiler FirstPersonCharacter] Input Axis Event references unknown Axis 'Turn' for  InputAxis Turn
+[2018.03.20-13.28.14:376][899]LogBlueprint: Warning: [Compiler FirstPersonCharacter] InputAction Event references unknown Action 'Jump' for  InputAction Jump
+[2018.03.20-13.28.14:380][899]LogBlueprint: Warning: [Compiler FirstPersonCharacter] [0032.67] Compile of FirstPersonCharacter successful, but with 7 Warning(s) [in 8 ms] (/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter)
+[2018.03.20-13.28.15:007][899]LogAIModule: Creating AISystem for world GameScene
+[2018.03.20-13.28.15:023][899]Cmd: MAP LOAD FILE="C:/Users/jay/Documents/GitHub/proefProeven/Content/Scenes/GameScene.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.03.20-13.28.15:024][899]LightingResults: New page: Lighting Build
+[2018.03.20-13.28.15:024][899]LoadErrors: New page: Loading map: GameScene.umap
+[2018.03.20-13.28.15:025][899]MapCheck: New page: Map Check
+[2018.03.20-13.28.15:025][899]LightingResults: New page: Lighting Build
+[2018.03.20-13.28.15:042][899]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.03.20-13.28.15:074][899]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.03.20-13.28.15:117][899]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 43.355ms to complete.
+[2018.03.20-13.28.15:117][899]LogFileHelpers: Loading map 'GameScene' took 0.095
+=======
 [2018.03.20-11.27.57:941][  0]LogInit: Selected Device Profile: [Windows]
 [2018.03.20-11.27.57:941][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
 [2018.03.20-11.27.57:953][  0]LogInit: Computer: DESKTOP-JMV6SCA
@@ -845,3 +1034,4 @@ LogInit: Object subsystem initialized
 [2018.03.20-11.35.49:291][179]LogModuleManager: Shutting down and abandoning module PakFile (2)
 [2018.03.20-11.35.49:294][179]LogExit: Exiting.
 [2018.03.20-11.35.49:314][179]Log file closed, 03/20/18 12:35:49
+>>>>>>> a0aaddee2bc8c1f1d3d3db24b3ba0a993971d265
