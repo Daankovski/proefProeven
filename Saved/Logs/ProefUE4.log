@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 ﻿Log file open, 03/23/18 14:07:23
+=======
+﻿Log file open, 03/23/18 13:02:14
+>>>>>>> Thijs
 LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
 LogWindows: File 'aqProf.dll' does not exist
 LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
@@ -7,12 +11,20 @@ LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
 LogWindows: File 'VtuneApi32e.dll' does not exist
 LogInit: Display: Running engine for game: ProefUE4
 LogPlatformFile: Not using cached read wrapper
+<<<<<<< HEAD
 LogInit: Display: RandInit(-393986773) SRandInit(-393986772).
+=======
+LogInit: Display: RandInit(-2088499455) SRandInit(-2088499455).
+>>>>>>> Thijs
 LogInit: Read version file with build ID '3709383'
 LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
 LogInit: Registered custom module enumerator with build ID '3709383'
 LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+<<<<<<< HEAD
 LogStats: Stats thread started at 0.207089
+=======
+LogStats: Stats thread started at 0.222173
+>>>>>>> Thijs
 LogD3D11RHI: Aftermath initialized
 LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
 LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
@@ -185,6 +197,7 @@ LogInit: Base directory: C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win
 LogInit: Installed Engine Build: 1
 LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
 LogInit: Object subsystem initialized
+<<<<<<< HEAD
 [2018.03.23-13.07.25:542][  0]LogInit: Selected Device Profile: [Windows]
 [2018.03.23-13.07.25:542][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
 [2018.03.23-13.07.25:563][  0]LogInit: Computer: DESKTOP-JMV6SCA
@@ -890,3 +903,531 @@ LogInit: Object subsystem initialized
 [2018.03.23-13.10.20:439][ 95]LogModuleManager: Shutting down and abandoning module PakFile (2)
 [2018.03.23-13.10.20:443][ 95]LogExit: Exiting.
 [2018.03.23-13.10.20:458][ 95]Log file closed, 03/23/18 14:10:20
+=======
+[2018.03.23-12.02.16:131][  0]LogInit: Selected Device Profile: [Windows]
+[2018.03.23-12.02.16:131][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.03.23-12.02.16:149][  0]LogInit: Computer: DESKTOP-JMV6SCA
+[2018.03.23-12.02.16:149][  0]LogInit: User: HPEliteBook8570w
+[2018.03.23-12.02.16:149][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.03.23-12.02.16:149][  0]LogInit: High frequency timer resolution =2.630752 MHz
+[2018.03.23-12.02.16:150][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.03.23-12.02.16:150][  0]LogMemory: Platform Memory Stats for Windows
+[2018.03.23-12.02.16:150][  0]LogMemory: Process Physical Memory: 271.69 MB used, 271.69 MB peak
+[2018.03.23-12.02.16:150][  0]LogMemory: Process Virtual Memory: 269.73 MB used, 269.73 MB peak
+[2018.03.23-12.02.16:150][  0]LogMemory: Physical Memory: 10734.82 MB used,  5580.58 MB free, 16315.40 MB total
+[2018.03.23-12.02.16:150][  0]LogMemory: Virtual Memory: 665.09 MB used,  5580.58 MB free, 134217728.00 MB total
+[2018.03.23-12.02.16:363][  0]LogInit: Using OS detected language (nl-NL).
+[2018.03.23-12.02.16:363][  0]LogInit: Using OS detected locale (nl-NL).
+[2018.03.23-12.02.16:368][  0]LogTextLocalizationManager: No localization for 'nl-NL' exists, so 'en' will be used for the language.
+[2018.03.23-12.02.16:369][  0]LogTextLocalizationManager: No localization for 'nl-NL' exists, so 'en' will be used for the locale.
+[2018.03.23-12.02.16:803][  0]LogInit: Setting process to per monitor DPI aware
+[2018.03.23-12.02.17:193][  0]LogD3D11RHI: D3D11 adapters:
+[2018.03.23-12.02.17:247][  0]LogD3D11RHI:    0. 'NVIDIA Quadro K2000M' (Feature Level 11_0)
+[2018.03.23-12.02.17:247][  0]LogD3D11RHI:       2018/0/8157 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.03.23-12.02.17:250][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.03.23-12.02.17:250][  0]LogD3D11RHI:       0/0/8157 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.03.23-12.02.17:250][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.03.23-12.02.17:258][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.03.23-12.02.17:258][  0]LogD3D11RHI:     GPU DeviceId: 0xffb (for the marketing name, search the web for "GPU Device Id")
+[2018.03.23-12.02.17:258][  0]LogWindows: EnumDisplayDevices:
+[2018.03.23-12.02.17:258][  0]LogWindows:    0. 'NVIDIA Quadro K2000M' (P:1 D:1)
+[2018.03.23-12.02.17:259][  0]LogWindows:    1. 'NVIDIA Quadro K2000M' (P:0 D:0)
+[2018.03.23-12.02.17:259][  0]LogWindows:    2. 'NVIDIA Quadro K2000M' (P:0 D:0)
+[2018.03.23-12.02.17:259][  0]LogWindows:    3. 'NVIDIA Quadro K2000M' (P:0 D:0)
+[2018.03.23-12.02.17:259][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.03.23-12.02.17:259][  0]LogD3D11RHI:     Adapter Name: NVIDIA Quadro K2000M
+[2018.03.23-12.02.17:259][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.03.23-12.02.17:259][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.03.23-12.02.17:259][  0]LogRHI: Texture pool is 1413 MB (70% of 2018 MB)
+[2018.03.23-12.02.17:293][  0]LogD3D11RHI: Async texture creation enabled
+[2018.03.23-12.02.17:306][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.03.23-12.02.17:308][  0]LogShaderCompilers: Guid format shader working directory is -14 characters bigger than the processId version (../../../../../../Users/HP EliteBook 8570w/Documents/GitHub/proefProeven/Intermediate/Shaders/WorkingDirectory/20300/).
+[2018.03.23-12.02.17:309][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/HP EliteBook 8570w/AppData/Local/Temp/UnrealShaderWorkingDir/B586B4E744870DFDB6908CBF0EF1B705/'.
+[2018.03.23-12.02.17:309][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.03.23-12.02.18:530][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.03.23-12.02.18:609][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.03.23-12.02.18:687][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.03.23-12.02.18:768][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.03.23-12.02.18:849][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.03.23-12.02.18:944][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.03.23-12.02.19:041][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.03.23-12.02.19:118][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.03.23-12.02.19:203][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.03.23-12.02.19:281][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.03.23-12.02.19:373][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.03.23-12.02.19:455][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.03.23-12.02.19:532][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.03.23-12.02.19:607][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.03.23-12.02.19:758][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.03.23-12.02.19:758][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.03.23-12.02.19:853][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.03.23-12.02.19:915][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.03.23-12.02.20:048][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.03.23-12.02.20:088][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.03.23-12.02.20:161][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.03.23-12.02.20:237][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.03.23-12.02.20:323][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.03.23-12.02.20:418][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.03.23-12.02.20:418][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.03.23-12.02.21:186][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.03.23-12.02.21:269][  0]LogDerivedDataCache: Loaded boot cache 0.08s 80MB C:/Users/HP EliteBook 8570w/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.03.23-12.02.21:269][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/HP EliteBook 8570w/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.03.23-12.02.21:270][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/HP EliteBook 8570w/Documents/GitHub/proefProeven/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.03.23-12.02.21:270][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.03.23-12.02.21:270][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/HP EliteBook 8570w/Documents/GitHub/proefProeven/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.03.23-12.02.21:270][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.03.23-12.02.21:288][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.03.23-12.02.21:301][  0]LogDerivedDataCache: Using Local data cache path C:/Users/HP EliteBook 8570w/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.03.23-12.02.21:313][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.03.23-12.02.21:314][  0]LogSlate: Using Freetype 2.6.0
+[2018.03.23-12.02.21:315][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.03.23-12.02.21:315][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.03.23-12.02.21:841][  0]LogInit: Selected Device Profile: [Windows]
+[2018.03.23-12.02.22:356][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.03.23-12.02.22:423][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.03.23-12.02.22:423][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.03.23-12.02.22:423][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.03.23-12.02.22:423][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.03.23-12.02.22:423][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.03.23-12.02.22:466][  0]LogNetVersion: ProefUE4 , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 508105638)
+[2018.03.23-12.02.22:692][  0]LogAssetRegistry: FAssetRegistry took 0.0279 seconds to start up
+[2018.03.23-12.02.23:329][  0]LogPackageLocalizationCache: Processed 5 localized package path(s) for 1 prioritized culture(s) in 0.055522 seconds
+[2018.03.23-12.02.23:335][  0]LogUObjectArray: 35459 objects as part of root set at end of initial load.
+[2018.03.23-12.02.23:335][  0]LogUObjectAllocator: 7283816 out of 0 bytes used by permanent object pool.
+[2018.03.23-12.02.23:335][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.03.23-12.02.23:412][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.03.23-12.02.27:505][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.03.23-12.02.27:576][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.03.23-12.02.28:591][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.03.23-12.02.29:281][  0]SourceControl: Source control is disabled
+[2018.03.23-12.02.29:281][  0]SourceControl: Source control is disabled
+[2018.03.23-12.02.29:370][  0]SourceControl: Source control is disabled
+[2018.03.23-12.02.29:457][  0]SourceControl: Source control is disabled
+[2018.03.23-12.02.30:846][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.03.23-12.02.31:579][  0]LogEngine: Initializing Engine...
+[2018.03.23-12.02.31:834][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.03.23-12.02.31:834][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.03.23-12.02.32:035][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.03.23-12.02.32:042][  0]LogInit: XAudio2 using 'Luidsprekers (High Definition Audio-apparaat)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.23-12.02.32:061][  0]LogInit: FAudioDevice initialized.
+[2018.03.23-12.02.32:166][  0]LogDerivedDataCache: Saved boot cache 0.10s 80MB C:/Users/HP EliteBook 8570w/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.03.23-12.02.32:184][  0]LogInit: Texture streaming: Enabled
+[2018.03.23-12.02.32:342][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.03.23-12.02.32:563][  0]LogInit: Transaction tracking system initialized
+[2018.03.23-12.02.33:070][  0]BlueprintLog: New page: Editor Load
+[2018.03.23-12.02.34:524][  0]LocalizationService: Localization service is disabled
+[2018.03.23-12.02.35:717][  0]LogConsoleResponse: Display: 
+[2018.03.23-12.02.35:949][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.03.23-12.02.35:950][  0]LogCook: Display: Mobile HDR setting 0
+[2018.03.23-12.02.35:950][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.03.23-12.02.36:420][  0]LogFileCache: Scanning file cache for directory 'C:/Users/HP EliteBook 8570w/Documents/GitHub/proefProeven/Content/' took 0.03s
+[2018.03.23-12.02.38:033][  0]SourceControl: Source control is disabled
+[2018.03.23-12.02.38:033][  0]Cmd: MAP LOAD FILE="../../../../../../Users/HP EliteBook 8570w/Documents/GitHub/proefProeven/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.03.23-12.02.38:034][  0]LightingResults: New page: Lighting Build
+[2018.03.23-12.02.38:102][  0]MapCheck: New page: Map Check
+[2018.03.23-12.02.38:102][  0]LightingResults: New page: Lighting Build
+[2018.03.23-12.02.38:451][  0]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData'
+[2018.03.23-12.02.38:451][  0]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData' while loading ../../../../../../Users/HP EliteBook 8570w/Documents/GitHub/proefProeven/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap.
+[2018.03.23-12.02.38:451][  0]LoadErrors: Error: /Game/FirstPersonBP/Maps/FirstPersonExampleMap : Can't find file for asset. /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData
+[2018.03.23-12.02.38:477][  0]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData'
+[2018.03.23-12.02.38:477][  0]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData' while loading ../../../../../../Users/HP EliteBook 8570w/Documents/GitHub/proefProeven/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap.
+[2018.03.23-12.02.38:477][  0]LoadErrors: Error: /Game/FirstPersonBP/Maps/FirstPersonExampleMap : Can't find file for asset. /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData
+[2018.03.23-12.02.38:485][  0]LogLinker: Warning: Can't find file '/Game/Geometry/Meshes/01_-_Default'
+[2018.03.23-12.02.38:486][  0]LogLinker: Warning: Can't find file for asset '/Game/Geometry/Meshes/01_-_Default' while loading ../../../../../../Users/HP EliteBook 8570w/Documents/GitHub/proefProeven/Content/Geometry/Meshes/wall_1_4.uasset.
+[2018.03.23-12.02.38:486][  0]LoadErrors: Error: /Game/Geometry/Meshes/wall_1_4 : Can't find file for asset. /Game/Geometry/Meshes/01_-_Default
+[2018.03.23-12.02.38:486][  0]LogLinker: Warning: Can't find file '/Game/Geometry/Meshes/01_-_Default'
+[2018.03.23-12.02.38:486][  0]LogLinker: Warning: Can't find file for asset '/Game/Geometry/Meshes/01_-_Default' while loading ../../../../../../Users/HP EliteBook 8570w/Documents/GitHub/proefProeven/Content/Geometry/Meshes/wall_1_4.uasset.
+[2018.03.23-12.02.38:486][  0]LoadErrors: Error: /Game/Geometry/Meshes/wall_1_4 : Can't find file for asset. /Game/Geometry/Meshes/01_-_Default
+[2018.03.23-12.02.38:491][  0]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData'
+[2018.03.23-12.02.38:491][  0]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData' while loading NULL.
+[2018.03.23-12.02.38:491][  0]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData'
+[2018.03.23-12.02.38:491][  0]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData' while loading NULL.
+[2018.03.23-12.02.38:512][  0]LogLinker: Warning: Can't find file '/Game/Geometry/Meshes/01_-_Default'
+[2018.03.23-12.02.38:512][  0]LoadErrors: Failed to load /Game/Geometry/Meshes/01_-_Default.01_-_Default Referenced by wall_1_4
+[2018.03.23-12.02.38:512][  0]LogLinker: Warning: Can't find file for asset '/Game/Geometry/Meshes/01_-_Default' while loading NULL.
+[2018.03.23-12.02.38:512][  0]LoadErrors: Failed to load /Game/Geometry/Meshes/01_-_Default.01_-_Default Referenced by wall_1_4
+[2018.03.23-12.02.38:512][  0]LogLinker: Warning: Can't find file '/Game/Geometry/Meshes/01_-_Default'
+[2018.03.23-12.02.38:512][  0]LoadErrors: Failed to load /Game/Geometry/Meshes/01_-_Default.01_-_Default Referenced by wall_1_4
+[2018.03.23-12.02.38:512][  0]LogLinker: Warning: Can't find file for asset '/Game/Geometry/Meshes/01_-_Default' while loading NULL.
+[2018.03.23-12.02.38:513][  0]LoadErrors: Failed to load /Game/Geometry/Meshes/01_-_Default.01_-_Default Referenced by wall_1_4
+[2018.03.23-12.02.38:518][  0]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData'
+[2018.03.23-12.02.38:518][  0]LoadErrors: Failed to load /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData Referenced by PersistentLevel
+[2018.03.23-12.02.38:518][  0]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData' while loading NULL.
+[2018.03.23-12.02.38:518][  0]LoadErrors: Failed to load /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData Referenced by PersistentLevel
+[2018.03.23-12.02.38:778][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.03.23-12.02.38:794][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.03.23-12.02.38:808][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.03.23-12.02.38:927][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 118.219ms to complete.
+[2018.03.23-12.02.38:927][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 0.893
+[2018.03.23-12.02.39:003][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.03.23-12.02.39:004][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.03.23-12.02.39:107][  0]LogCollectionManager: Loaded 0 collections in 0.002507 seconds
+[2018.03.23-12.02.39:222][  0]LogFileCache: Scanning file cache for directory 'C:/Users/HP EliteBook 8570w/Documents/GitHub/proefProeven/Saved/Collections/' took 0.01s
+[2018.03.23-12.02.39:222][  0]LogFileCache: Scanning file cache for directory 'C:/Users/HP EliteBook 8570w/Documents/GitHub/proefProeven/Content/Developers/HPEliteBook8570w/Collections/' took 0.01s
+[2018.03.23-12.02.39:222][  0]LogFileCache: Scanning file cache for directory 'C:/Users/HP EliteBook 8570w/Documents/GitHub/proefProeven/Content/Collections/' took 0.01s
+[2018.03.23-12.02.39:222][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.03.23-12.02.39:236][  0]LogContentBrowser: Native class hierarchy populated in 0.0137 seconds. Added 2356 classes and 510 folders.
+[2018.03.23-12.02.39:364][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.03.23-12.02.39:448][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.03.23-12.02.39:536][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2018.03.23-12.02.39:620][  0]LogSlate: Took 0.000533 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.03.23-12.02.39:623][  0]LogSlate: Took 0.000537 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.03.23-12.02.39:631][  0]LogSlate: Took 0.000502 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.03.23-12.02.39:763][  0]LogRenderer: Reallocating scene render targets to support 880x436 Format 10 NumSamples 1 (Frame:1).
+[2018.03.23-12.02.39:966][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2018.03.23-12.02.39:966][  0]LogLoad: (Engine Initialization) Total time: 27.51 seconds
+[2018.03.23-12.02.39:966][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.03.23-12.02.39:966][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2018.03.23-12.02.39:966][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2018.03.23-12.02.40:020][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.03.23-12.02.40:092][  0]LogSlate: Took 0.000383 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.03.23-12.02.40:108][  1]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/HP EliteBook 8570w/Documents/GitHub/proefProeven/Content/' took 0.11s
+[2018.03.23-12.02.40:337][  2]LogAssetRegistry: Asset discovery search completed in 17.6682 seconds
+[2018.03.23-12.02.40:341][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.03.23-12.02.40:341][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000089 seconds (updated 0 objects)
+[2018.03.23-12.03.01:604][694]LogSlate: Took 0.000361 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.03.23-12.03.01:623][694]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\HP EliteBook 8570w\Desktop\Proef Proeve\models\ScreenPanelStand.fbx)
+[2018.03.23-12.03.01:642][694]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.03.23-12.03.01:642][694]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2018.03.23-12.03.01:642][694]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2018.03.23-12.03.01:642][694]LogFbx: ItemName: NodeAttribute, ItemCount : 1
+[2018.03.23-12.03.01:642][694]LogFbx: ItemName: Model, ItemCount : 4
+[2018.03.23-12.03.01:642][694]LogFbx: ItemName: Geometry, ItemCount : 3
+[2018.03.23-12.03.01:642][694]LogFbx: ItemName: Material, ItemCount : 1
+[2018.03.23-12.03.01:649][694]LogFbx: Loading FBX Scene from C:\Users\HP EliteBook 8570w\Desktop\Proef Proeve\models\ScreenPanelStand.fbx
+[2018.03.23-12.03.01:659][694]LogFbx: FBX Scene Loaded Succesfully
+[2018.03.23-12.03.04:529][694]LogFbx: Loading FBX Scene from C:\Users\HP EliteBook 8570w\Desktop\Proef Proeve\models\ScreenPanelStand.fbx
+[2018.03.23-12.03.04:538][694]LogFbx: FBX Scene Loaded Succesfully
+[2018.03.23-12.03.04:565][694]LogFbx: Warning: Triangulating static mesh Stand
+[2018.03.23-12.03.04:595][694]LogStaticMesh: Building static mesh ScreenPanelStand_Stand...
+[2018.03.23-12.03.04:650][694]LogStaticMesh: Built static mesh [0.06s] /Game/Models/ScreenPanelStand/ScreenPanelStand_Stand.ScreenPanelStand_Stand
+[2018.03.23-12.03.04:693][694]LogFbx: Warning: Triangulating static mesh Screen
+[2018.03.23-12.03.04:694][694]LogStaticMesh: Building static mesh ScreenPanelStand_Screen...
+[2018.03.23-12.03.04:695][694]LogStaticMesh: Built static mesh [0.00s] /Game/Models/ScreenPanelStand/ScreenPanelStand_Screen.ScreenPanelStand_Screen
+[2018.03.23-12.03.04:723][694]LogFbx: Warning: Triangulating static mesh Panel
+[2018.03.23-12.03.04:739][694]LogStaticMesh: Building static mesh ScreenPanelStand_Panel...
+[2018.03.23-12.03.04:756][694]LogStaticMesh: Built static mesh [0.02s] /Game/Models/ScreenPanelStand/ScreenPanelStand_Panel.ScreenPanelStand_Panel
+[2018.03.23-12.03.13:149][943]LogLinker: Warning: Can't find file '/Game/Models/DoorControlPanel/Button1'
+[2018.03.23-12.03.13:149][943]LogLinker: Warning: Can't find file for asset '/Game/Models/DoorControlPanel/Button1' while loading ../../../../../../Users/HP EliteBook 8570w/Documents/GitHub/proefProeven/Content/Scenes/GameScene.umap.
+[2018.03.23-12.03.13:149][943]LoadErrors: Error: /Game/Scenes/GameScene : Can't find file for asset. /Game/Models/DoorControlPanel/Button1
+[2018.03.23-12.03.13:149][943]LogLinker: Warning: Can't find file '/Game/Models/DoorControlPanel/Button2'
+[2018.03.23-12.03.13:149][943]LogLinker: Warning: Can't find file for asset '/Game/Models/DoorControlPanel/Button2' while loading ../../../../../../Users/HP EliteBook 8570w/Documents/GitHub/proefProeven/Content/Scenes/GameScene.umap.
+[2018.03.23-12.03.13:149][943]LoadErrors: Error: /Game/Scenes/GameScene : Can't find file for asset. /Game/Models/DoorControlPanel/Button2
+[2018.03.23-12.03.13:149][943]LogLinker: Warning: Can't find file '/Game/Models/DoorControlPanel/Button3'
+[2018.03.23-12.03.13:149][943]LogLinker: Warning: Can't find file for asset '/Game/Models/DoorControlPanel/Button3' while loading ../../../../../../Users/HP EliteBook 8570w/Documents/GitHub/proefProeven/Content/Scenes/GameScene.umap.
+[2018.03.23-12.03.13:149][943]LoadErrors: Error: /Game/Scenes/GameScene : Can't find file for asset. /Game/Models/DoorControlPanel/Button3
+[2018.03.23-12.03.13:150][943]LogLinker: Warning: Can't find file '/Game/Models/DoorControlPanel/Button4'
+[2018.03.23-12.03.13:150][943]LogLinker: Warning: Can't find file for asset '/Game/Models/DoorControlPanel/Button4' while loading ../../../../../../Users/HP EliteBook 8570w/Documents/GitHub/proefProeven/Content/Scenes/GameScene.umap.
+[2018.03.23-12.03.13:150][943]LoadErrors: Error: /Game/Scenes/GameScene : Can't find file for asset. /Game/Models/DoorControlPanel/Button4
+[2018.03.23-12.03.13:150][943]LogLinker: Warning: Can't find file '/Game/Models/DoorControlPanel/Button5'
+[2018.03.23-12.03.13:150][943]LogLinker: Warning: Can't find file for asset '/Game/Models/DoorControlPanel/Button5' while loading ../../../../../../Users/HP EliteBook 8570w/Documents/GitHub/proefProeven/Content/Scenes/GameScene.umap.
+[2018.03.23-12.03.13:150][943]LoadErrors: Error: /Game/Scenes/GameScene : Can't find file for asset. /Game/Models/DoorControlPanel/Button5
+[2018.03.23-12.03.13:150][943]LogLinker: Warning: Can't find file '/Game/Models/DoorControlPanel/Button6'
+[2018.03.23-12.03.13:150][943]LogLinker: Warning: Can't find file for asset '/Game/Models/DoorControlPanel/Button6' while loading ../../../../../../Users/HP EliteBook 8570w/Documents/GitHub/proefProeven/Content/Scenes/GameScene.umap.
+[2018.03.23-12.03.13:150][943]LoadErrors: Error: /Game/Scenes/GameScene : Can't find file for asset. /Game/Models/DoorControlPanel/Button6
+[2018.03.23-12.03.13:151][943]LogLinker: Warning: Can't find file '/Game/Models/DoorControlPanel/Button7'
+[2018.03.23-12.03.13:151][943]LogLinker: Warning: Can't find file for asset '/Game/Models/DoorControlPanel/Button7' while loading ../../../../../../Users/HP EliteBook 8570w/Documents/GitHub/proefProeven/Content/Scenes/GameScene.umap.
+[2018.03.23-12.03.13:151][943]LoadErrors: Error: /Game/Scenes/GameScene : Can't find file for asset. /Game/Models/DoorControlPanel/Button7
+[2018.03.23-12.03.13:151][943]LogLinker: Warning: Can't find file '/Game/Models/DoorControlPanel/Button8'
+[2018.03.23-12.03.13:151][943]LogLinker: Warning: Can't find file for asset '/Game/Models/DoorControlPanel/Button8' while loading ../../../../../../Users/HP EliteBook 8570w/Documents/GitHub/proefProeven/Content/Scenes/GameScene.umap.
+[2018.03.23-12.03.13:151][943]LoadErrors: Error: /Game/Scenes/GameScene : Can't find file for asset. /Game/Models/DoorControlPanel/Button8
+[2018.03.23-12.03.13:151][943]LogLinker: Warning: Can't find file '/Game/Models/DoorControlPanel/Button9'
+[2018.03.23-12.03.13:151][943]LogLinker: Warning: Can't find file for asset '/Game/Models/DoorControlPanel/Button9' while loading ../../../../../../Users/HP EliteBook 8570w/Documents/GitHub/proefProeven/Content/Scenes/GameScene.umap.
+[2018.03.23-12.03.13:151][943]LoadErrors: Error: /Game/Scenes/GameScene : Can't find file for asset. /Game/Models/DoorControlPanel/Button9
+[2018.03.23-12.03.13:151][943]LogLinker: Warning: Can't find file '/Game/Models/DoorControlPanel/Enter'
+[2018.03.23-12.03.13:152][943]LogLinker: Warning: Can't find file for asset '/Game/Models/DoorControlPanel/Enter' while loading ../../../../../../Users/HP EliteBook 8570w/Documents/GitHub/proefProeven/Content/Scenes/GameScene.umap.
+[2018.03.23-12.03.13:152][943]LoadErrors: Error: /Game/Scenes/GameScene : Can't find file for asset. /Game/Models/DoorControlPanel/Enter
+[2018.03.23-12.03.13:152][943]LogLinker: Warning: Can't find file '/Game/Models/DoorControlPanel/Panel'
+[2018.03.23-12.03.13:152][943]LogLinker: Warning: Can't find file for asset '/Game/Models/DoorControlPanel/Panel' while loading ../../../../../../Users/HP EliteBook 8570w/Documents/GitHub/proefProeven/Content/Scenes/GameScene.umap.
+[2018.03.23-12.03.13:152][943]LoadErrors: Error: /Game/Scenes/GameScene : Can't find file for asset. /Game/Models/DoorControlPanel/Panel
+[2018.03.23-12.03.13:152][943]LogLinker: Warning: Can't find file '/Game/Models/DoorControlPanel/PanelUI22_Idle'
+[2018.03.23-12.03.13:152][943]LogLinker: Warning: Can't find file for asset '/Game/Models/DoorControlPanel/PanelUI22_Idle' while loading ../../../../../../Users/HP EliteBook 8570w/Documents/GitHub/proefProeven/Content/Scenes/GameScene.umap.
+[2018.03.23-12.03.13:152][943]LoadErrors: Error: /Game/Scenes/GameScene : Can't find file for asset. /Game/Models/DoorControlPanel/PanelUI22_Idle
+[2018.03.23-12.03.13:152][943]LogLinker: Warning: Can't find file '/Game/Models/DoorControlPanel/PanelUI_Fail'
+[2018.03.23-12.03.13:153][943]LogLinker: Warning: Can't find file for asset '/Game/Models/DoorControlPanel/PanelUI_Fail' while loading ../../../../../../Users/HP EliteBook 8570w/Documents/GitHub/proefProeven/Content/Scenes/GameScene.umap.
+[2018.03.23-12.03.13:153][943]LoadErrors: Error: /Game/Scenes/GameScene : Can't find file for asset. /Game/Models/DoorControlPanel/PanelUI_Fail
+[2018.03.23-12.03.13:153][943]LogLinker: Warning: Can't find file '/Game/Models/DoorControlPanel/PanelUI_Success'
+[2018.03.23-12.03.13:153][943]LogLinker: Warning: Can't find file for asset '/Game/Models/DoorControlPanel/PanelUI_Success' while loading ../../../../../../Users/HP EliteBook 8570w/Documents/GitHub/proefProeven/Content/Scenes/GameScene.umap.
+[2018.03.23-12.03.13:153][943]LoadErrors: Error: /Game/Scenes/GameScene : Can't find file for asset. /Game/Models/DoorControlPanel/PanelUI_Success
+[2018.03.23-12.03.13:153][943]LogLinker: Warning: Can't find file '/Game/Models/DoorControlPanel/Reset'
+[2018.03.23-12.03.13:153][943]LogLinker: Warning: Can't find file for asset '/Game/Models/DoorControlPanel/Reset' while loading ../../../../../../Users/HP EliteBook 8570w/Documents/GitHub/proefProeven/Content/Scenes/GameScene.umap.
+[2018.03.23-12.03.13:153][943]LoadErrors: Error: /Game/Scenes/GameScene : Can't find file for asset. /Game/Models/DoorControlPanel/Reset
+[2018.03.23-12.03.13:342][943]LogLinker: Warning: Can't find file '/Game/Models/DoorControlPanel/Button1'
+[2018.03.23-12.03.13:342][943]LogLinker: Warning: Can't find file for asset '/Game/Models/DoorControlPanel/Button1' while loading ../../../../../../Users/HP EliteBook 8570w/Documents/GitHub/proefProeven/Content/Scenes/GameScene.umap.
+[2018.03.23-12.03.13:343][943]LogLinker: Warning: Can't find file '/Game/Models/DoorControlPanel/Button2'
+[2018.03.23-12.03.13:343][943]LogLinker: Warning: Can't find file for asset '/Game/Models/DoorControlPanel/Button2' while loading ../../../../../../Users/HP EliteBook 8570w/Documents/GitHub/proefProeven/Content/Scenes/GameScene.umap.
+[2018.03.23-12.03.13:343][943]LogLinker: Warning: Can't find file '/Game/Models/DoorControlPanel/Button3'
+[2018.03.23-12.03.13:343][943]LogLinker: Warning: Can't find file for asset '/Game/Models/DoorControlPanel/Button3' while loading ../../../../../../Users/HP EliteBook 8570w/Documents/GitHub/proefProeven/Content/Scenes/GameScene.umap.
+[2018.03.23-12.03.13:343][943]LogLinker: Warning: Can't find file '/Game/Models/DoorControlPanel/Button4'
+[2018.03.23-12.03.13:343][943]LogLinker: Warning: Can't find file for asset '/Game/Models/DoorControlPanel/Button4' while loading ../../../../../../Users/HP EliteBook 8570w/Documents/GitHub/proefProeven/Content/Scenes/GameScene.umap.
+[2018.03.23-12.03.13:343][943]LogLinker: Warning: Can't find file '/Game/Models/DoorControlPanel/Button5'
+[2018.03.23-12.03.13:344][943]LogLinker: Warning: Can't find file for asset '/Game/Models/DoorControlPanel/Button5' while loading ../../../../../../Users/HP EliteBook 8570w/Documents/GitHub/proefProeven/Content/Scenes/GameScene.umap.
+[2018.03.23-12.03.13:344][943]LogLinker: Warning: Can't find file '/Game/Models/DoorControlPanel/Button6'
+[2018.03.23-12.03.13:344][943]LogLinker: Warning: Can't find file for asset '/Game/Models/DoorControlPanel/Button6' while loading ../../../../../../Users/HP EliteBook 8570w/Documents/GitHub/proefProeven/Content/Scenes/GameScene.umap.
+[2018.03.23-12.03.13:344][943]LogLinker: Warning: Can't find file '/Game/Models/DoorControlPanel/Button7'
+[2018.03.23-12.03.13:344][943]LogLinker: Warning: Can't find file for asset '/Game/Models/DoorControlPanel/Button7' while loading ../../../../../../Users/HP EliteBook 8570w/Documents/GitHub/proefProeven/Content/Scenes/GameScene.umap.
+[2018.03.23-12.03.13:344][943]LogLinker: Warning: Can't find file '/Game/Models/DoorControlPanel/Button8'
+[2018.03.23-12.03.13:344][943]LogLinker: Warning: Can't find file for asset '/Game/Models/DoorControlPanel/Button8' while loading ../../../../../../Users/HP EliteBook 8570w/Documents/GitHub/proefProeven/Content/Scenes/GameScene.umap.
+[2018.03.23-12.03.13:345][943]LogLinker: Warning: Can't find file '/Game/Models/DoorControlPanel/Button9'
+[2018.03.23-12.03.13:345][943]LogLinker: Warning: Can't find file for asset '/Game/Models/DoorControlPanel/Button9' while loading ../../../../../../Users/HP EliteBook 8570w/Documents/GitHub/proefProeven/Content/Scenes/GameScene.umap.
+[2018.03.23-12.03.13:345][943]LogLinker: Warning: Can't find file '/Game/Models/DoorControlPanel/Enter'
+[2018.03.23-12.03.13:345][943]LogLinker: Warning: Can't find file for asset '/Game/Models/DoorControlPanel/Enter' while loading ../../../../../../Users/HP EliteBook 8570w/Documents/GitHub/proefProeven/Content/Scenes/GameScene.umap.
+[2018.03.23-12.03.13:345][943]LogLinker: Warning: Can't find file '/Game/Models/DoorControlPanel/Panel'
+[2018.03.23-12.03.13:345][943]LogLinker: Warning: Can't find file for asset '/Game/Models/DoorControlPanel/Panel' while loading ../../../../../../Users/HP EliteBook 8570w/Documents/GitHub/proefProeven/Content/Scenes/GameScene.umap.
+[2018.03.23-12.03.13:346][943]LogLinker: Warning: Can't find file '/Game/Models/DoorControlPanel/PanelUI22_Idle'
+[2018.03.23-12.03.13:346][943]LogLinker: Warning: Can't find file for asset '/Game/Models/DoorControlPanel/PanelUI22_Idle' while loading ../../../../../../Users/HP EliteBook 8570w/Documents/GitHub/proefProeven/Content/Scenes/GameScene.umap.
+[2018.03.23-12.03.13:346][943]LogLinker: Warning: Can't find file '/Game/Models/DoorControlPanel/PanelUI_Fail'
+[2018.03.23-12.03.13:346][943]LogLinker: Warning: Can't find file for asset '/Game/Models/DoorControlPanel/PanelUI_Fail' while loading ../../../../../../Users/HP EliteBook 8570w/Documents/GitHub/proefProeven/Content/Scenes/GameScene.umap.
+[2018.03.23-12.03.13:346][943]LogLinker: Warning: Can't find file '/Game/Models/DoorControlPanel/PanelUI_Success'
+[2018.03.23-12.03.13:346][943]LogLinker: Warning: Can't find file for asset '/Game/Models/DoorControlPanel/PanelUI_Success' while loading ../../../../../../Users/HP EliteBook 8570w/Documents/GitHub/proefProeven/Content/Scenes/GameScene.umap.
+[2018.03.23-12.03.13:346][943]LogLinker: Warning: Can't find file '/Game/Models/DoorControlPanel/Reset'
+[2018.03.23-12.03.13:347][943]LogLinker: Warning: Can't find file for asset '/Game/Models/DoorControlPanel/Reset' while loading ../../../../../../Users/HP EliteBook 8570w/Documents/GitHub/proefProeven/Content/Scenes/GameScene.umap.
+[2018.03.23-12.03.13:355][943]LogLinker: Warning: Can't find file '/Game/Models/DoorControlPanel/Button1'
+[2018.03.23-12.03.13:356][943]LogLinker: Warning: Can't find file for asset '/Game/Models/DoorControlPanel/Button1' while loading NULL.
+[2018.03.23-12.03.13:356][943]LogLinker: Warning: Can't find file '/Game/Models/DoorControlPanel/Button2'
+[2018.03.23-12.03.13:356][943]LogLinker: Warning: Can't find file for asset '/Game/Models/DoorControlPanel/Button2' while loading NULL.
+[2018.03.23-12.03.13:356][943]LogLinker: Warning: Can't find file '/Game/Models/DoorControlPanel/Button3'
+[2018.03.23-12.03.13:356][943]LogLinker: Warning: Can't find file for asset '/Game/Models/DoorControlPanel/Button3' while loading NULL.
+[2018.03.23-12.03.13:356][943]LogLinker: Warning: Can't find file '/Game/Models/DoorControlPanel/Button4'
+[2018.03.23-12.03.13:356][943]LogLinker: Warning: Can't find file for asset '/Game/Models/DoorControlPanel/Button4' while loading NULL.
+[2018.03.23-12.03.13:356][943]LogLinker: Warning: Can't find file '/Game/Models/DoorControlPanel/Button5'
+[2018.03.23-12.03.13:356][943]LogLinker: Warning: Can't find file for asset '/Game/Models/DoorControlPanel/Button5' while loading NULL.
+[2018.03.23-12.03.13:357][943]LogLinker: Warning: Can't find file '/Game/Models/DoorControlPanel/Button6'
+[2018.03.23-12.03.13:357][943]LogLinker: Warning: Can't find file for asset '/Game/Models/DoorControlPanel/Button6' while loading NULL.
+[2018.03.23-12.03.13:357][943]LogLinker: Warning: Can't find file '/Game/Models/DoorControlPanel/Button7'
+[2018.03.23-12.03.13:357][943]LogLinker: Warning: Can't find file for asset '/Game/Models/DoorControlPanel/Button7' while loading NULL.
+[2018.03.23-12.03.13:357][943]LogLinker: Warning: Can't find file '/Game/Models/DoorControlPanel/Button8'
+[2018.03.23-12.03.13:357][943]LogLinker: Warning: Can't find file for asset '/Game/Models/DoorControlPanel/Button8' while loading NULL.
+[2018.03.23-12.03.13:357][943]LogLinker: Warning: Can't find file '/Game/Models/DoorControlPanel/Button9'
+[2018.03.23-12.03.13:357][943]LogLinker: Warning: Can't find file for asset '/Game/Models/DoorControlPanel/Button9' while loading NULL.
+[2018.03.23-12.03.13:357][943]LogLinker: Warning: Can't find file '/Game/Models/DoorControlPanel/Enter'
+[2018.03.23-12.03.13:358][943]LogLinker: Warning: Can't find file for asset '/Game/Models/DoorControlPanel/Enter' while loading NULL.
+[2018.03.23-12.03.13:358][943]LogLinker: Warning: Can't find file '/Game/Models/DoorControlPanel/Panel'
+[2018.03.23-12.03.13:358][943]LogLinker: Warning: Can't find file for asset '/Game/Models/DoorControlPanel/Panel' while loading NULL.
+[2018.03.23-12.03.13:358][943]LogLinker: Warning: Can't find file '/Game/Models/DoorControlPanel/PanelUI22_Idle'
+[2018.03.23-12.03.13:358][943]LogLinker: Warning: Can't find file for asset '/Game/Models/DoorControlPanel/PanelUI22_Idle' while loading NULL.
+[2018.03.23-12.03.13:358][943]LogLinker: Warning: Can't find file '/Game/Models/DoorControlPanel/PanelUI_Fail'
+[2018.03.23-12.03.13:358][943]LogLinker: Warning: Can't find file for asset '/Game/Models/DoorControlPanel/PanelUI_Fail' while loading NULL.
+[2018.03.23-12.03.13:358][943]LogLinker: Warning: Can't find file '/Game/Models/DoorControlPanel/PanelUI_Success'
+[2018.03.23-12.03.13:358][943]LogLinker: Warning: Can't find file for asset '/Game/Models/DoorControlPanel/PanelUI_Success' while loading NULL.
+[2018.03.23-12.03.13:358][943]LogLinker: Warning: Can't find file '/Game/Models/DoorControlPanel/Reset'
+[2018.03.23-12.03.13:359][943]LogLinker: Warning: Can't find file for asset '/Game/Models/DoorControlPanel/Reset' while loading NULL.
+[2018.03.23-12.03.13:359][943]LogLinker: Warning: Can't find file '/Game/Models/DoorControlPanel/Button1'
+[2018.03.23-12.03.13:359][943]LogLinker: Warning: Can't find file for asset '/Game/Models/DoorControlPanel/Button1' while loading NULL.
+[2018.03.23-12.03.13:359][943]LogLinker: Warning: Can't find file '/Game/Models/DoorControlPanel/Button2'
+[2018.03.23-12.03.13:359][943]LogLinker: Warning: Can't find file for asset '/Game/Models/DoorControlPanel/Button2' while loading NULL.
+[2018.03.23-12.03.13:359][943]LogLinker: Warning: Can't find file '/Game/Models/DoorControlPanel/Button3'
+[2018.03.23-12.03.13:359][943]LogLinker: Warning: Can't find file for asset '/Game/Models/DoorControlPanel/Button3' while loading NULL.
+[2018.03.23-12.03.13:359][943]LogLinker: Warning: Can't find file '/Game/Models/DoorControlPanel/Button4'
+[2018.03.23-12.03.13:359][943]LogLinker: Warning: Can't find file for asset '/Game/Models/DoorControlPanel/Button4' while loading NULL.
+[2018.03.23-12.03.13:360][943]LogLinker: Warning: Can't find file '/Game/Models/DoorControlPanel/Button5'
+[2018.03.23-12.03.13:360][943]LogLinker: Warning: Can't find file for asset '/Game/Models/DoorControlPanel/Button5' while loading NULL.
+[2018.03.23-12.03.13:360][943]LogLinker: Warning: Can't find file '/Game/Models/DoorControlPanel/Button6'
+[2018.03.23-12.03.13:360][943]LogLinker: Warning: Can't find file for asset '/Game/Models/DoorControlPanel/Button6' while loading NULL.
+[2018.03.23-12.03.13:360][943]LogLinker: Warning: Can't find file '/Game/Models/DoorControlPanel/Button7'
+[2018.03.23-12.03.13:360][943]LogLinker: Warning: Can't find file for asset '/Game/Models/DoorControlPanel/Button7' while loading NULL.
+[2018.03.23-12.03.13:360][943]LogLinker: Warning: Can't find file '/Game/Models/DoorControlPanel/Button8'
+[2018.03.23-12.03.13:360][943]LogLinker: Warning: Can't find file for asset '/Game/Models/DoorControlPanel/Button8' while loading NULL.
+[2018.03.23-12.03.13:360][943]LogLinker: Warning: Can't find file '/Game/Models/DoorControlPanel/Button9'
+[2018.03.23-12.03.13:361][943]LogLinker: Warning: Can't find file for asset '/Game/Models/DoorControlPanel/Button9' while loading NULL.
+[2018.03.23-12.03.13:361][943]LogLinker: Warning: Can't find file '/Game/Models/DoorControlPanel/Enter'
+[2018.03.23-12.03.13:361][943]LogLinker: Warning: Can't find file for asset '/Game/Models/DoorControlPanel/Enter' while loading NULL.
+[2018.03.23-12.03.13:361][943]LogLinker: Warning: Can't find file '/Game/Models/DoorControlPanel/Panel'
+[2018.03.23-12.03.13:361][943]LogLinker: Warning: Can't find file for asset '/Game/Models/DoorControlPanel/Panel' while loading NULL.
+[2018.03.23-12.03.13:361][943]LogLinker: Warning: Can't find file '/Game/Models/DoorControlPanel/PanelUI22_Idle'
+[2018.03.23-12.03.13:361][943]LogLinker: Warning: Can't find file for asset '/Game/Models/DoorControlPanel/PanelUI22_Idle' while loading NULL.
+[2018.03.23-12.03.13:361][943]LogLinker: Warning: Can't find file '/Game/Models/DoorControlPanel/PanelUI_Fail'
+[2018.03.23-12.03.13:362][943]LogLinker: Warning: Can't find file for asset '/Game/Models/DoorControlPanel/PanelUI_Fail' while loading NULL.
+[2018.03.23-12.03.13:362][943]LogLinker: Warning: Can't find file '/Game/Models/DoorControlPanel/PanelUI_Success'
+[2018.03.23-12.03.13:362][943]LogLinker: Warning: Can't find file for asset '/Game/Models/DoorControlPanel/PanelUI_Success' while loading NULL.
+[2018.03.23-12.03.13:362][943]LogLinker: Warning: Can't find file '/Game/Models/DoorControlPanel/Reset'
+[2018.03.23-12.03.13:362][943]LogLinker: Warning: Can't find file for asset '/Game/Models/DoorControlPanel/Reset' while loading NULL.
+[2018.03.23-12.03.13:450][943]LogLinker: Warning: Can't find file '/Game/Models/DoorControlPanel/Button1'
+[2018.03.23-12.03.13:450][943]LoadErrors: Failed to load /Game/Models/DoorControlPanel/Button1.Button1 Referenced by Button1
+[2018.03.23-12.03.13:451][943]LogLinker: Warning: Can't find file for asset '/Game/Models/DoorControlPanel/Button1' while loading NULL.
+[2018.03.23-12.03.13:451][943]LogLinker: Warning: Can't find file '/Game/Models/DoorControlPanel/Button2'
+[2018.03.23-12.03.13:451][943]LoadErrors: Failed to load /Game/Models/DoorControlPanel/Button2.Button2 Referenced by Button2
+[2018.03.23-12.03.13:451][943]LogLinker: Warning: Can't find file for asset '/Game/Models/DoorControlPanel/Button2' while loading NULL.
+[2018.03.23-12.03.13:451][943]LogLinker: Warning: Can't find file '/Game/Models/DoorControlPanel/Button3'
+[2018.03.23-12.03.13:451][943]LoadErrors: Failed to load /Game/Models/DoorControlPanel/Button3.Button3 Referenced by Button3
+[2018.03.23-12.03.13:451][943]LogLinker: Warning: Can't find file for asset '/Game/Models/DoorControlPanel/Button3' while loading NULL.
+[2018.03.23-12.03.13:452][943]LogLinker: Warning: Can't find file '/Game/Models/DoorControlPanel/Button4'
+[2018.03.23-12.03.13:452][943]LoadErrors: Failed to load /Game/Models/DoorControlPanel/Button4.Button4 Referenced by Button4
+[2018.03.23-12.03.13:452][943]LogLinker: Warning: Can't find file for asset '/Game/Models/DoorControlPanel/Button4' while loading NULL.
+[2018.03.23-12.03.13:452][943]LogLinker: Warning: Can't find file '/Game/Models/DoorControlPanel/Button5'
+[2018.03.23-12.03.13:452][943]LoadErrors: Failed to load /Game/Models/DoorControlPanel/Button5.Button5 Referenced by Button5
+[2018.03.23-12.03.13:452][943]LogLinker: Warning: Can't find file for asset '/Game/Models/DoorControlPanel/Button5' while loading NULL.
+[2018.03.23-12.03.13:453][943]LogLinker: Warning: Can't find file '/Game/Models/DoorControlPanel/Button6'
+[2018.03.23-12.03.13:453][943]LoadErrors: Failed to load /Game/Models/DoorControlPanel/Button6.Button6 Referenced by Button6
+[2018.03.23-12.03.13:453][943]LogLinker: Warning: Can't find file for asset '/Game/Models/DoorControlPanel/Button6' while loading NULL.
+[2018.03.23-12.03.13:453][943]LogLinker: Warning: Can't find file '/Game/Models/DoorControlPanel/Button7'
+[2018.03.23-12.03.13:453][943]LoadErrors: Failed to load /Game/Models/DoorControlPanel/Button7.Button7 Referenced by Button7
+[2018.03.23-12.03.13:453][943]LogLinker: Warning: Can't find file for asset '/Game/Models/DoorControlPanel/Button7' while loading NULL.
+[2018.03.23-12.03.13:453][943]LogLinker: Warning: Can't find file '/Game/Models/DoorControlPanel/Button8'
+[2018.03.23-12.03.13:453][943]LoadErrors: Failed to load /Game/Models/DoorControlPanel/Button8.Button8 Referenced by Button8
+[2018.03.23-12.03.13:454][943]LogLinker: Warning: Can't find file for asset '/Game/Models/DoorControlPanel/Button8' while loading NULL.
+[2018.03.23-12.03.13:454][943]LogLinker: Warning: Can't find file '/Game/Models/DoorControlPanel/Button9'
+[2018.03.23-12.03.13:454][943]LoadErrors: Failed to load /Game/Models/DoorControlPanel/Button9.Button9 Referenced by Button9
+[2018.03.23-12.03.13:454][943]LogLinker: Warning: Can't find file for asset '/Game/Models/DoorControlPanel/Button9' while loading NULL.
+[2018.03.23-12.03.13:455][943]LogLinker: Warning: Can't find file '/Game/Models/DoorControlPanel/Enter'
+[2018.03.23-12.03.13:455][943]LoadErrors: Failed to load /Game/Models/DoorControlPanel/Enter.Enter Referenced by Enter
+[2018.03.23-12.03.13:455][943]LogLinker: Warning: Can't find file for asset '/Game/Models/DoorControlPanel/Enter' while loading NULL.
+[2018.03.23-12.03.13:457][943]LogLinker: Warning: Can't find file '/Game/Models/DoorControlPanel/Panel'
+[2018.03.23-12.03.13:457][943]LoadErrors: Failed to load /Game/Models/DoorControlPanel/Panel.Panel Referenced by Panel
+[2018.03.23-12.03.13:457][943]LogLinker: Warning: Can't find file for asset '/Game/Models/DoorControlPanel/Panel' while loading NULL.
+[2018.03.23-12.03.13:458][943]LogLinker: Warning: Can't find file '/Game/Models/DoorControlPanel/PanelUI22_Idle'
+[2018.03.23-12.03.13:458][943]LoadErrors: Failed to load /Game/Models/DoorControlPanel/PanelUI22_Idle.PanelUI22_Idle Referenced by PanelUI22_Idle
+[2018.03.23-12.03.13:458][943]LogLinker: Warning: Can't find file for asset '/Game/Models/DoorControlPanel/PanelUI22_Idle' while loading NULL.
+[2018.03.23-12.03.13:458][943]LogLinker: Warning: Can't find file '/Game/Models/DoorControlPanel/PanelUI_Fail'
+[2018.03.23-12.03.13:458][943]LoadErrors: Failed to load /Game/Models/DoorControlPanel/PanelUI_Fail.PanelUI_Fail Referenced by PanelUI_Fail
+[2018.03.23-12.03.13:458][943]LogLinker: Warning: Can't find file for asset '/Game/Models/DoorControlPanel/PanelUI_Fail' while loading NULL.
+[2018.03.23-12.03.13:459][943]LogLinker: Warning: Can't find file '/Game/Models/DoorControlPanel/PanelUI_Success'
+[2018.03.23-12.03.13:459][943]LoadErrors: Failed to load /Game/Models/DoorControlPanel/PanelUI_Success.PanelUI_Success Referenced by PanelUI_Success
+[2018.03.23-12.03.13:459][943]LogLinker: Warning: Can't find file for asset '/Game/Models/DoorControlPanel/PanelUI_Success' while loading NULL.
+[2018.03.23-12.03.13:459][943]LogLinker: Warning: Can't find file '/Game/Models/DoorControlPanel/Reset'
+[2018.03.23-12.03.13:459][943]LoadErrors: Failed to load /Game/Models/DoorControlPanel/Reset.Reset Referenced by Reset
+[2018.03.23-12.03.13:459][943]LogLinker: Warning: Can't find file for asset '/Game/Models/DoorControlPanel/Reset' while loading NULL.
+[2018.03.23-12.03.13:551][943]LogAIModule: Creating AISystem for world GameScene
+[2018.03.23-12.03.19:143][943]LogSavePackage: Save=14.96ms
+[2018.03.23-12.03.19:143][943]LogSavePackage: Moving '../../../../../../Users/HP EliteBook 8570w/Documents/GitHub/proefProeven/Saved/ScreenPanelStand_Panel82D920004BD6DED2636A698C346D9539.tmp' to '../../../../../../Users/HP EliteBook 8570w/Documents/GitHub/proefProeven/Content/Models/ScreenPanelStand/ScreenPanelStand_Panel.uasset'
+[2018.03.23-12.03.19:155][943]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/HP EliteBook 8570w/Documents/GitHub/proefProeven/Content/Models/ScreenPanelStand/ScreenPanelStand_Panel.uasset
+[2018.03.23-12.03.19:215][943]LogSavePackage: Save=14.81ms
+[2018.03.23-12.03.19:215][943]LogSavePackage: Moving '../../../../../../Users/HP EliteBook 8570w/Documents/GitHub/proefProeven/Saved/ScreenPanelStand_ScreenA09C394B4AAF0D64189148AF838DB818.tmp' to '../../../../../../Users/HP EliteBook 8570w/Documents/GitHub/proefProeven/Content/Models/ScreenPanelStand/ScreenPanelStand_Screen.uasset'
+[2018.03.23-12.03.19:229][943]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/HP EliteBook 8570w/Documents/GitHub/proefProeven/Content/Models/ScreenPanelStand/ScreenPanelStand_Screen.uasset
+[2018.03.23-12.03.19:297][943]LogSavePackage: Save=19.97ms
+[2018.03.23-12.03.19:297][943]LogSavePackage: Moving '../../../../../../Users/HP EliteBook 8570w/Documents/GitHub/proefProeven/Saved/ScreenPanelStand_Stand78A18F29493C0350C0971887A882035B.tmp' to '../../../../../../Users/HP EliteBook 8570w/Documents/GitHub/proefProeven/Content/Models/ScreenPanelStand/ScreenPanelStand_Stand.uasset'
+[2018.03.23-12.03.19:311][943]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/HP EliteBook 8570w/Documents/GitHub/proefProeven/Content/Models/ScreenPanelStand/ScreenPanelStand_Stand.uasset
+[2018.03.23-12.03.19:313][943]Cmd: MAP LOAD FILE="../../../../../../Users/HP EliteBook 8570w/Documents/GitHub/proefProeven/Content/Scenes/GameScene.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.03.23-12.03.19:313][943]LightingResults: New page: Lighting Build
+[2018.03.23-12.03.19:314][943]LoadErrors: New page: Loading map: GameScene.umap
+[2018.03.23-12.03.19:315][943]MapCheck: New page: Map Check
+[2018.03.23-12.03.19:315][943]LightingResults: New page: Lighting Build
+[2018.03.23-12.03.19:422][943]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.03.23-12.03.19:462][943]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.03.23-12.03.19:636][943]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 173.257ms to complete.
+[2018.03.23-12.03.19:638][943]LogSlate: Took 0.000267 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.03.23-12.03.19:644][943]LogFileHelpers: Loading map 'GameScene' took 0.333
+[2018.03.23-12.03.25:174][250]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ScreenPanelStand_Screen3)
+[2018.03.23-12.03.25:888][285]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.03.23-12.03.32:061][548]LogRenderer: Reallocating scene render targets to support 1016x708 Format 10 NumSamples 1 (Frame:1).
+[2018.03.23-12.03.33:031][565]LogSlate: Took 0.000377 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.03.23-12.03.35:897][664]LogSavePackage: Save=14.12ms
+[2018.03.23-12.03.35:897][664]LogSavePackage: Moving '../../../../../../Users/HP EliteBook 8570w/Documents/GitHub/proefProeven/Saved/ScreenPanelStand_PanelD5938C8F4E1F9926E1E406BD14514E2B.tmp' to '../../../../../../Users/HP EliteBook 8570w/Documents/GitHub/proefProeven/Content/Models/ScreenPanelStand/ScreenPanelStand_Panel.uasset'
+[2018.03.23-12.03.35:910][664]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/HP EliteBook 8570w/Documents/GitHub/proefProeven/Content/Models/ScreenPanelStand/ScreenPanelStand_Panel.uasset
+[2018.03.23-12.06.15:561][353]LogAssetTools: Warning: Failed to import 'C:\Users\HP EliteBook 8570w\Desktop\Proef Proeve\models\screenpanelstand.mb'. Unknown extension 'mb'.
+[2018.03.23-12.06.50:501][585]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\HP EliteBook 8570w\Desktop\Proef Proeve\models\ScreenPanelStand.fbx)
+[2018.03.23-12.06.50:509][585]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.03.23-12.06.50:509][585]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2018.03.23-12.06.50:509][585]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2018.03.23-12.06.50:509][585]LogFbx: ItemName: NodeAttribute, ItemCount : 1
+[2018.03.23-12.06.50:509][585]LogFbx: ItemName: Model, ItemCount : 4
+[2018.03.23-12.06.50:509][585]LogFbx: ItemName: Geometry, ItemCount : 3
+[2018.03.23-12.06.50:509][585]LogFbx: ItemName: Material, ItemCount : 1
+[2018.03.23-12.06.50:515][585]LogFbx: Loading FBX Scene from C:\Users\HP EliteBook 8570w\Desktop\Proef Proeve\models\ScreenPanelStand.fbx
+[2018.03.23-12.06.50:525][585]LogFbx: FBX Scene Loaded Succesfully
+[2018.03.23-12.06.52:277][585]LogFbx: Loading FBX Scene from C:\Users\HP EliteBook 8570w\Desktop\Proef Proeve\models\ScreenPanelStand.fbx
+[2018.03.23-12.06.52:285][585]LogFbx: FBX Scene Loaded Succesfully
+[2018.03.23-12.06.52:287][585]LogFbx: Warning: Triangulating static mesh Stand
+[2018.03.23-12.06.52:314][585]LogStaticMesh: Building static mesh ScreenPanelStand_Stand...
+[2018.03.23-12.06.52:368][585]LogStaticMesh: Built static mesh [0.05s] /Game/Models/ScreenPanelStand/ScreenPanelStand_Stand.ScreenPanelStand_Stand
+[2018.03.23-12.06.52:388][585]LogFbx: Warning: Triangulating static mesh Screen
+[2018.03.23-12.06.52:389][585]LogStaticMesh: Building static mesh ScreenPanelStand_Screen...
+[2018.03.23-12.06.52:391][585]LogStaticMesh: Built static mesh [0.00s] /Game/Models/ScreenPanelStand/ScreenPanelStand_Screen.ScreenPanelStand_Screen
+[2018.03.23-12.06.52:398][585]LogFbx: Warning: Triangulating static mesh Panel
+[2018.03.23-12.06.52:418][585]LogStaticMesh: Building static mesh ScreenPanelStand_Panel...
+[2018.03.23-12.06.52:441][585]LogStaticMesh: Built static mesh [0.02s] /Game/Models/ScreenPanelStand/ScreenPanelStand_Panel.ScreenPanelStand_Panel
+[2018.03.23-12.07.10:895][245]LogSavePackage: Save=14.50ms
+[2018.03.23-12.07.10:895][245]LogSavePackage: Moving '../../../../../../Users/HP EliteBook 8570w/Documents/GitHub/proefProeven/Saved/ScreenPanelStand_Panel2E318CBA413B5C5FACF395BC7EFCEEE2.tmp' to '../../../../../../Users/HP EliteBook 8570w/Documents/GitHub/proefProeven/Content/Models/ScreenPanelStand/ScreenPanelStand_Panel.uasset'
+[2018.03.23-12.07.10:908][245]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/HP EliteBook 8570w/Documents/GitHub/proefProeven/Content/Models/ScreenPanelStand/ScreenPanelStand_Panel.uasset
+[2018.03.23-12.07.18:759][496]LogSavePackage: Save=18.18ms
+[2018.03.23-12.07.18:759][496]LogSavePackage: Moving '../../../../../../Users/HP EliteBook 8570w/Documents/GitHub/proefProeven/Saved/ScreenPanelStand_Screen02EB7EE84E5E889E8CCEF89C4B984924.tmp' to '../../../../../../Users/HP EliteBook 8570w/Documents/GitHub/proefProeven/Content/Models/ScreenPanelStand/ScreenPanelStand_Screen.uasset'
+[2018.03.23-12.07.18:775][496]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/HP EliteBook 8570w/Documents/GitHub/proefProeven/Content/Models/ScreenPanelStand/ScreenPanelStand_Screen.uasset
+[2018.03.23-12.07.26:304][720]LogSavePackage: Save=17.30ms
+[2018.03.23-12.07.26:304][720]LogSavePackage: Moving '../../../../../../Users/HP EliteBook 8570w/Documents/GitHub/proefProeven/Saved/ScreenPanelStand_StandE6FE44EA472865EA5CD378A07DB470D0.tmp' to '../../../../../../Users/HP EliteBook 8570w/Documents/GitHub/proefProeven/Content/Models/ScreenPanelStand/ScreenPanelStand_Stand.uasset'
+[2018.03.23-12.07.26:319][720]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/HP EliteBook 8570w/Documents/GitHub/proefProeven/Content/Models/ScreenPanelStand/ScreenPanelStand_Stand.uasset
+[2018.03.23-12.07.36:252][181]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ControlPanel_Part2)
+[2018.03.23-12.07.37:700][228]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ControlPanel_Part2)
+[2018.03.23-12.07.37:940][238]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.03.23-12.07.43:013][479]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Chair2)
+[2018.03.23-12.07.43:336][491]Cmd: TRANSACTION UNDO
+[2018.03.23-12.07.43:336][491]LogEditorTransaction: Undo Scale Actors
+[2018.03.23-12.07.44:452][537]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ControlPanel_Part1)
+[2018.03.23-12.31.44:693][136]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.23-12.31.44:827][136]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Scenes/GameScene.GameScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/GameScene.GameScene:PersistentLevel.GameScene' with GeneratedClass '/Game/Scenes/GameScene.GameScene_C' with ClassGeneratedBy '/Game/Scenes/GameScene.GameScene:PersistentLevel.GameScene'
+[2018.03.23-12.31.44:827][136]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.23-12.31.44:828][136]PIE: New page: PIE session: GameScene (Mar 23, 2018, 2:31:44 PM)
+[2018.03.23-12.31.44:828][136]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_GameScene
+[2018.03.23-12.31.44:882][136]LogPlayLevel: PIE: StaticDuplicateObject took: (0.054010s)
+[2018.03.23-12.31.44:883][136]LogAIModule: Creating AISystem for world GameScene
+[2018.03.23-12.31.44:883][136]LogPlayLevel: PIE: World Init took: (0.001470s)
+[2018.03.23-12.31.44:884][136]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/GameScene.GameScene to /Game/Scenes/UEDPIE_0_GameScene.GameScene (0.056145s)
+[2018.03.23-12.31.44:917][136]LogInit: XAudio2 using 'Luidsprekers (High Definition Audio-apparaat)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.23-12.31.44:927][136]LogInit: FAudioDevice initialized.
+[2018.03.23-12.31.44:978][136]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.03.23-12.31.44:989][136]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_GameScene.GameScene up for play (max tick rate 60) at 2018.03.23-13.31.44
+[2018.03.23-12.31.44:990][136]LogWorld: Bringing up level for play took: 0.009918
+[2018.03.23-12.31.45:079][136]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0006 seconds. Added 11 classes and 0 folders.
+[2018.03.23-12.31.45:083][136]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_GameScene 0.379
+[2018.03.23-12.31.45:083][136]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Scenes/GameScene.GameScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/GameScene.GameScene:PersistentLevel.GameScene' with GeneratedClass '/Game/Scenes/GameScene.GameScene_C' with ClassGeneratedBy '/Game/Scenes/GameScene.GameScene:PersistentLevel.GameScene'
+[2018.03.23-12.31.49:914][407]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Scenes/GameScene.GameScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/GameScene.GameScene:PersistentLevel.GameScene' with GeneratedClass '/Game/Scenes/GameScene.GameScene_C' with ClassGeneratedBy '/Game/Scenes/GameScene.GameScene:PersistentLevel.GameScene'
+[2018.03.23-12.31.49:962][407]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Scenes/GameScene.GameScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/GameScene.GameScene:PersistentLevel.GameScene' with GeneratedClass '/Game/Scenes/GameScene.GameScene_C' with ClassGeneratedBy '/Game/Scenes/GameScene.GameScene:PersistentLevel.GameScene'
+[2018.03.23-12.36.32:595][931]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Radio/Radio_Mat" FILE="../../../../../../Users/HP EliteBook 8570w/Documents/GitHub/proefProeven/Content/Models/Radio/Radio_Mat.uasset" SILENT=true
+[2018.03.23-12.36.32:619][931]LogSavePackage: Save=17.76ms
+[2018.03.23-12.36.32:620][931]LogSavePackage: Moving '../../../../../../Users/HP EliteBook 8570w/Documents/GitHub/proefProeven/Saved/Radio_Mat636E868644528E4013FC4BAC64946F3E.tmp' to '../../../../../../Users/HP EliteBook 8570w/Documents/GitHub/proefProeven/Content/Models/Radio/Radio_Mat.uasset'
+[2018.03.23-12.36.32:632][931]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/HP EliteBook 8570w/Documents/GitHub/proefProeven/Content/Models/Radio/Radio_Mat.uasset
+[2018.03.23-12.36.52:549][826]LogSavePackage: Save=21.71ms
+[2018.03.23-12.36.52:549][826]LogSavePackage: Moving '../../../../../../Users/HP EliteBook 8570w/Documents/GitHub/proefProeven/Saved/Radio_Mat3D9743E9472DD9A72EEB5796769751E5.tmp' to '../../../../../../Users/HP EliteBook 8570w/Documents/GitHub/proefProeven/Content/Models/Radio/Materials/Radio_Mat.uasset'
+[2018.03.23-12.36.52:565][826]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/HP EliteBook 8570w/Documents/GitHub/proefProeven/Content/Models/Radio/Materials/Radio_Mat.uasset
+[2018.03.23-12.36.55:050][935]LogContentBrowser: Native class hierarchy updated for 'MaterialEditor' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2018.03.23-12.36.55:228][935]LogRenderer: Reallocating scene render targets to support 1112x708 Format 10 NumSamples 1 (Frame:1).
+[2018.03.23-12.37.00:044][126]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Radio_Mat, compiling. 
+[2018.03.23-12.37.00:646][126]TextureStreamingBuild: Display: Compiling optional shaders took 0.609 seconds.
+[2018.03.23-12.37.00:703][126]LogSavePackage: Save=20.64ms
+[2018.03.23-12.37.00:703][126]LogSavePackage: Moving '../../../../../../Users/HP EliteBook 8570w/Documents/GitHub/proefProeven/Saved/Radio_Mat605395274D5BFAAE064295B2DB049775.tmp' to '../../../../../../Users/HP EliteBook 8570w/Documents/GitHub/proefProeven/Content/Models/Radio/Materials/Radio_Mat.uasset'
+[2018.03.23-12.37.00:720][126]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/HP EliteBook 8570w/Documents/GitHub/proefProeven/Content/Models/Radio/Materials/Radio_Mat.uasset
+[2018.03.23-12.37.26:308][318]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\HP EliteBook 8570w\Desktop\Proef Proeve\models\Radio\Radio_BaseColor.png)
+[2018.03.23-12.37.26:324][318]LogTexture: Display: Building textures: Radio_BaseColor (AutoDXT, 512X512)
+[2018.03.23-12.37.26:395][318]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\HP EliteBook 8570w\Desktop\Proef Proeve\models\Radio\Radio_Normal.png)
+[2018.03.23-12.37.26:419][318]LogTexture: Display: Building textures: Radio_Normal (BC5, 512X512)
+[2018.03.23-12.37.26:466][318]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\HP EliteBook 8570w\Desktop\Proef Proeve\models\Radio\Radio_OcclusionRoughnessMetallic.png)
+[2018.03.23-12.37.26:488][318]LogTexture: Display: Building textures: Radio_OcclusionRoughnessMetallic (AutoDXT, 512X512)
+[2018.03.23-12.37.41:831][868]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Radio_Mat, compiling. 
+[2018.03.23-12.37.42:420][868]TextureStreamingBuild: Display: Compiling optional shaders took 0.593 seconds.
+[2018.03.23-12.37.42:459][868]LogSavePackage: Save=15.07ms
+[2018.03.23-12.37.42:459][868]LogSavePackage: Moving '../../../../../../Users/HP EliteBook 8570w/Documents/GitHub/proefProeven/Saved/Radio_Mat3907BB58430221F39277E39B43A68494.tmp' to '../../../../../../Users/HP EliteBook 8570w/Documents/GitHub/proefProeven/Content/Models/Radio/Materials/Radio_Mat.uasset'
+[2018.03.23-12.37.42:471][868]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/HP EliteBook 8570w/Documents/GitHub/proefProeven/Content/Models/Radio/Materials/Radio_Mat.uasset
+[2018.03.23-12.37.50:150][ 28]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\HP EliteBook 8570w\Desktop\Proef Proeve\models\Radio\Radio.fbx)
+[2018.03.23-12.37.50:157][ 28]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.03.23-12.37.50:157][ 28]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2018.03.23-12.37.50:157][ 28]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2018.03.23-12.37.50:157][ 28]LogFbx: ItemName: Geometry, ItemCount : 1
+[2018.03.23-12.37.50:158][ 28]LogFbx: ItemName: Material, ItemCount : 1
+[2018.03.23-12.37.50:158][ 28]LogFbx: ItemName: Model, ItemCount : 1
+[2018.03.23-12.37.50:162][ 28]LogFbx: Loading FBX Scene from C:\Users\HP EliteBook 8570w\Desktop\Proef Proeve\models\Radio\Radio.fbx
+[2018.03.23-12.37.50:169][ 28]LogFbx: FBX Scene Loaded Succesfully
+[2018.03.23-12.37.52:140][ 28]LogFbx: Loading FBX Scene from C:\Users\HP EliteBook 8570w\Desktop\Proef Proeve\models\Radio\Radio.fbx
+[2018.03.23-12.37.52:148][ 28]LogFbx: FBX Scene Loaded Succesfully
+[2018.03.23-12.37.52:150][ 28]LogFbx: Warning: Triangulating static mesh Radio:Mesh
+[2018.03.23-12.37.52:178][ 28]LogStaticMesh: Building static mesh Radio...
+[2018.03.23-12.37.52:221][ 28]LogStaticMesh: Built static mesh [0.04s] /Game/Models/Radio/Radio.Radio
+[2018.03.23-12.37.56:922][126]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Radio/Radio" FILE="../../../../../../Users/HP EliteBook 8570w/Documents/GitHub/proefProeven/Content/Models/Radio/Radio.uasset" SILENT=true
+[2018.03.23-12.37.56:944][126]LogSavePackage: Save=16.19ms
+[2018.03.23-12.37.56:944][126]LogSavePackage: Moving '../../../../../../Users/HP EliteBook 8570w/Documents/GitHub/proefProeven/Saved/Radio5C1800A541EF0E9F27F478B0A4C7706C.tmp' to '../../../../../../Users/HP EliteBook 8570w/Documents/GitHub/proefProeven/Content/Models/Radio/Radio.uasset'
+[2018.03.23-12.37.56:957][126]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/HP EliteBook 8570w/Documents/GitHub/proefProeven/Content/Models/Radio/Radio.uasset
+[2018.03.23-12.37.59:416][206]LogActorFactory: Actor Factory created Radio
+[2018.03.23-12.38.01:805][331]LogActorFactory: Actor Factory created Radio
+[2018.03.23-12.38.02:964][387]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.03.23-12.38.39:227][176]LogSavePackage: Save=528.22ms
+[2018.03.23-12.38.39:227][176]LogSavePackage: Moving '../../../../../../Users/HP EliteBook 8570w/Documents/GitHub/proefProeven/Saved/GameSceneFB914E374D58C23279FB899C1CB2B43F.tmp' to '../../../../../../Users/HP EliteBook 8570w/Documents/GitHub/proefProeven/Content/Scenes/GameScene.umap'
+[2018.03.23-12.38.39:245][176]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/HP EliteBook 8570w/Documents/GitHub/proefProeven/Content/Scenes/GameScene.umap
+[2018.03.23-12.38.39:289][176]LogFileHelpers: Saving map 'GameScene' took 0.856
+[2018.03.23-12.38.39:358][176]LogSavePackage: Save=41.91ms
+[2018.03.23-12.38.39:358][176]LogSavePackage: Moving '../../../../../../Users/HP EliteBook 8570w/Documents/GitHub/proefProeven/Saved/Radio_BaseColorBC50B3854AC69698118F0C9DC74E09A2.tmp' to '../../../../../../Users/HP EliteBook 8570w/Documents/GitHub/proefProeven/Content/Models/Radio/Textures/Radio_BaseColor.uasset'
+[2018.03.23-12.38.39:372][176]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/HP EliteBook 8570w/Documents/GitHub/proefProeven/Content/Models/Radio/Textures/Radio_BaseColor.uasset
+[2018.03.23-12.38.39:427][176]LogSavePackage: Save=34.60ms
+[2018.03.23-12.38.39:427][176]LogSavePackage: Moving '../../../../../../Users/HP EliteBook 8570w/Documents/GitHub/proefProeven/Saved/Radio_Normal0924A4534CD93B9CB70FA5B1196DFFB3.tmp' to '../../../../../../Users/HP EliteBook 8570w/Documents/GitHub/proefProeven/Content/Models/Radio/Textures/Radio_Normal.uasset'
+[2018.03.23-12.38.39:439][176]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/HP EliteBook 8570w/Documents/GitHub/proefProeven/Content/Models/Radio/Textures/Radio_Normal.uasset
+[2018.03.23-12.38.39:518][176]LogSavePackage: Save=57.48ms
+[2018.03.23-12.38.39:518][176]LogSavePackage: Moving '../../../../../../Users/HP EliteBook 8570w/Documents/GitHub/proefProeven/Saved/Radio_OcclusionRoughnessMetallic563E9FC04E7DDA70D561FD85B38F0F20.tmp' to '../../../../../../Users/HP EliteBook 8570w/Documents/GitHub/proefProeven/Content/Models/Radio/Textures/Radio_OcclusionRoughnessMetallic.uasset'
+[2018.03.23-12.38.39:534][176]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/HP EliteBook 8570w/Documents/GitHub/proefProeven/Content/Models/Radio/Textures/Radio_OcclusionRoughnessMetallic.uasset
+>>>>>>> Thijs
